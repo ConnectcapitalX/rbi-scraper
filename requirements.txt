@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+PyMuPDF
+fpdf
+python-dotenv
+openai 
