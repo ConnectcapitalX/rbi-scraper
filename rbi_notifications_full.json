@@ -10,7 +10,7 @@
       },
       {
         "url": "mailto:cgmfmrd@rbi.org.in",
-        "context": "cgmfmrd@rbi.org.in Floor, Shahid Bhagat Singh"
+        "context": "\u092e\u0902\u093f\u091c\u0932, \u0936\u0939\u0223\u0926 \u092d\u0917\u0924 \u0367\u0938\u0902\u0939 \u092e\u093e\u0917\u0930\u094d, cgmfmrd@rbi.org.in Floor, Shahid Bhagat Singh"
       },
       {
         "url": "mailto:cgmfmrd@rbi.org.in",
@@ -47,6 +47,10 @@
       {
         "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12358&Mode=0",
         "context": "Series) Circular No. 10 dated July 11, 2022 the aforesaid account in Central Government"
+      },
+      {
+        "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12765",
+        "context": "updated Master Direction"
       }
     ],
     "important_dates": [
