@@ -805,46 +805,5 @@
         "context": "der of the Hon\u2019ble Supreme Court  dated April 30, 2025 in the matter of Pragya Prasun and Ors."
       }
     ]
-  },
-  {
-    "title": "Introduction of Continuous Clearing and Settlement on Realisation in Cheque Truncation System",
-    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT7318205B91DE0945C3AC4F58812511E5C7.PDF",
-    "file_extracted_text": " \n\u092d\u0941\u0917\u0924\u093e\u0928 \u0914\u0930 \u093f\u0928\u092a\u091f\u093e\u0928 \u092a\u094d\u0930\u0923\u093e\u0932\u0223 \u036a\u0935\u092d\u093e\u0917, \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0915\u093e\u092f\u093e\u0930\u094d\u0932\u092f, 14\u0935\u0940 \u092e\u0902\u093f\u091c\u0932, \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u0915\u093e\u092f\u093e\u0930\u094d\u0932\u092f \u092d\u0935\u0928,\u0936\u0939\u0940\u0926 \u092d\u0917\u0924 \u093f\u0938\u0902\u0939 \u092e\u093e\u0917\u0930\u094d, \u092b\u094b\u091f\u0930\u094d, \u092e\u0941\u027e\u0908 - 400001 \n\u092b\u094b\u0928 Tel: (91-22) 2260 1000; \u092b\u0948\u0915\u094d \u0938 Fax: (91-22) 2265 9566;   \u0908 \u092e\u0947\u0932-e-mail :   cgmdpssco@rbi.org.in \nDepartment of Payment and Settlement Systems, Central Office, 14th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai-\n400001 \n\u093f\u0939\u0902\u0926\u0940 \u0906\u0938\u093e\u0928 \u0939\u0948, \u0907\u0938\u0915\u093e \u092a\u094d\u0930\u092f\u094b\u0917 \u092c\u095d\u093e\u0907\u090f \n \nRBI/2025-26/73 \nCO.DPSS.RLPD.No.S536/04-07-001/2025-2026  \n \n \nAugust 13, 2025 \n \nThe Chairman / Managing Director / Chief Executive Officer of \nBanks participating in Cheque Truncation System/ \nNational Payment Corporation of India \n \nDear Sir / Madam, \nIntroduction of Continuous Clearing and Settlement on Realisation in Cheque \nTruncation System \nPlease refer to the Statement on Developmental and Regulatory Policies dated August \n8, 2024, announcing the transition of Cheque Truncation System (CTS) from the \ncurrent approach of batch processing to continuous clearing with settlement on \nrealisation. \n2. It has been decided to transition CTS to continuous clearing and settlement on \nrealisation in two phases. Phase 1 shall be implemented on October 4, 2025 and \nPhase 2 on January 3, 2026. The modalities for the same are given in Annex. \n3. All banks are advised to make their customers adequately aware of the changes in \nthe cheque clearing process.  \n4. Banks are also advised to be in readiness to participate in continuous clearing in \nCTS on the above dates. \n5. This directive is issued under Section 10 (2) read with Section 18 of Payment and \nSettlement Systems Act, 2007 (Act 51 of 2007). \nYours faithfully, \n \n(Saurabh Nath) \nChief General Manager \n \n2 \n \nAnnex \nModalities for Continuous Clearing with Settlement On-realisation in CTS \n1. Single presentation session with continuous delivery:  \na) There shall be a single presentation session from 10:00 AM to 4:00 PM.  \nb) Cheques received by the branches shall be scanned and sent to the clearing \nhouse by the banks immediately and continuously during the presentation \nsession.  \nc) The clearing house will in turn release the cheque images to drawee banks on \na continuous basis. \n2. Continuous inward processing and confirmation by banks:  \na) The confirmation session shall start at 10:00 AM and close at 7:00 PM.   \nb) For every cheque presented, the drawee bank shall generate either positive \nconfirmation (for honoured cheques) or negative confirmation (for dishonoured \ncheques).  \nc) Each cheque will contain the \u2018Item Expiry Time\u2019 which indicates the latest time \nby which confirmation for the presented instrument needs to be provided by the \ndrawee bank.   \nd) Processing by drawee banks is to be done continuously throughout the day and \non a real time basis as soon as cheque images are received.  \ne) Information of positive/negative confirmation shall be sent by the drawee banks \nto the clearing house immediately after processing. \n3. Time available for inward processing:  \na) During phase 1 (From October 4 to January 2, 2026), drawee banks shall be \nrequired to confirm (positively / negatively) cheques presented on them latest \nby end of confirmation session (i.e. 7:00 PM) else those will be deemed to have \nbeen approved and included for settlement. Item expiry time for all cheques \nshall be set as 7:00 PM in phase 1.  \n \n3 \n \nb) In Phase 2 (from January 3, 2026), the item expiry time of cheques shall be \nchanged to T+3 clear hours. For example, the cheques received by drawee \nbanks between 10:00 AM and 11:00 AM will have to be confirmed positively or \nnegatively by them by 2:00 PM (3 hours from 11:00 AM). Cheques for which \nconfirmation is not provided by the drawee bank in the prescribed 3 hours shall \nbe treated as deemed approved and included for settlement at 2:00 PM.    \n4. Settlement on realisation:  \na) No accounting entries (settlement) will be posted for presentation of cheques.  \nb) Starting from 11:00 AM, settlement will be arrived every hour till the end of \nconfirmation session, based on the positive confirmations received from \ndrawee banks and cheques considered deemed approved.  \nc) No accounting entries shall be passed for cheques with negative confirmation.  \n5. Releasing payment to customers:  \na) On completion of settlement, clearing house shall release the information of \npositive and negative confirmations to the presenting bank.  \nb) The presenting bank shall process the same and release the payment to the \ncustomers immediately, but not later than 1 hour from successful settlement, \nsubject to usual safeguards. \n \n \n",
-    "extracted_links": [
-      {
-        "url": "mailto:cgmdpssco@rbi.org.in",
-        "context": "cgmdpssco@rbi.org.in Building, Shahid Bhagat Singh"
-      },
-      {
-        "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=58449",
-        "context": "Statement on Developmental and Regulatory Policies dated August announcing the transition of Cheque Truncation System (CTS) from the"
-      },
-      {
-        "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=58449",
-        "context": "8, 2024, current approach"
-      }
-    ],
-    "important_dates": [
-      {
-        "date": "August 13, 2025",
-        "context": ".RLPD.No.S536/04-07-001/2025-2026       August 13, 2025    The Chairman / Managing Director / C"
-      },
-      {
-        "date": "October 4, 2025",
-        "context": "phases. Phase 1 shall be implemented on October 4, 2025 and  Phase 2 on January 3, 2026. The mo"
-      },
-      {
-        "date": "January 3, 2026",
-        "context": "nted on October 4, 2025 and  Phase 2 on January 3, 2026. The modalities for the same are given"
-      },
-      {
-        "date": "January 2, 2026",
-        "context": "a) During phase 1 (From October 4 to January 2, 2026), drawee banks shall be  required to co"
-      },
-      {
-        "date": "January 3, 2026",
-        "context": "n phase 1.     3    b) In Phase 2 (from January 3, 2026), the item expiry time of cheques shall"
-      }
-    ]
   }
 ]
