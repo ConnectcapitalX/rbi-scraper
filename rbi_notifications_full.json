@@ -1,5 +1,218 @@
 [
   {
+    "title": "Reserve Bank of India (Commercial Banks - Minimum Capital Requirements  for Market Risk) Directions, 2026",
+    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/472MDACBA450D67234F52BA2983DA6AED9DFC.PDF",
+    "file_extracted_text": " \n\u092d\u093e\u0930\u0924\u0940\u092f \u012f\u0930\u095b\u0935\u0930\u094d \u092c\u0948\u0902\u0915 \n________________RESERVE BANK OF INDIA________________ \nwww.rbi.org.in \n \nRBI/DOR/2026-27/472 \nDOR.MRG.REC.227/21-01-002/2026-27                                    September 21, 2026 \n \nReserve Bank of India (Commercial Banks - Minimum Capital Requirements  \nfor Market Risk) Directions, 2026 \n \nTable of Contents \nChapter-I: Preliminary ........................................................................................................... 3 \nA. Short title and Effective Date ......................................................................................... 3 \nB. Applicability ................................................................................................................... 3 \nC. Definitions ..................................................................................................................... 3 \nChapter-II: Boundary between the banking book and the trading book ................................. 5 \nA. Scope of the trading book ............................................................................................. 5 \nB. Restrictions on reclassifying instruments between the regulatory books ....................... 5 \nC. Treatment of internal risk transfers ................................................................................ 6 \nC.1 \nInternal risk transfer of credit risk from banking book to trading book .................. 6 \nC.2 \nInternal risk transfer of general interest rate risk (GIRR) from banking book to \ntrading book ................................................................................................................... 7 \nC.3 \nEligible hedges for the CVA capital requirement .................................................. 8 \nChapter-III: Scope of application of market risk ................................................................... 10 \nA. Exclusion of certain structural foreign exchange positions from Net Open Position .. 10 \nChapter-IV: Calculating risk-weighted assets for market risk ............................................... 16 \nA. Risk-weighted assets and capital requirements ........................................................... 16 \nB. Interest rate risk ........................................................................................................ 16 \nB.1 \nSpecific risk ....................................................................................................... 17 \nB.2 \nGeneral market risk ........................................................................................... 30 \nC. Equity risk ................................................................................................................. 36 \nD. Foreign exchange risk .............................................................................................. 36 \nD.1 \nMeasuring the exposure in a single currency ..................................................... 37 \nD.2 \nOverseas operations in Net Open Position ........................................................ 38 \nD.3 \nMeasuring the foreign exchange risk in a portfolio of foreign currency positions \nand gold ....................................................................................................................... 39 \nE. Treatment of options ................................................................................................... 40 \nChapter-V: Disclosures and Repeal Provisions ................................................................... 47 \n2 \n \nA. Disclosures ................................................................................................................. 47 \nB. Repeal Provisions ....................................................................................................... 47 \nAnnex I ............................................................................................................................... 48 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n3 \n \nIn exercise of the powers conferred under Section 35 A of the Banking Regulation \nAct, 1949 (hereinafter called the Act), the Reserve Bank of India (hereinafter called \nthe Reserve Bank), being satisfied that it is necessary and expedient in the public \ninterest so to do, hereby, issues the Directions hereinafter specified. \nChapter-I: Preliminary \nA. Short title and Effective Date \n1. \nThese Directions shall be called the Reserve Bank of India (Commercial \nBanks - Minimum Capital Requirements for Market Risk) Directions, 2026.  \n2. \nThese Directions shall come into effect from April 1, 2027. \nB. Applicability \n3. \nThese Directions shall apply to all Commercial Banks (hereinafter collectively \nreferred to as 'banks' and individually as a 'bank'). \nFor the purpose of these Directions, \u2018Commercial Banks\u2019 means banking companies \n(other than Small Finance Banks, Payments Banks, and Local Area Banks), \ncorresponding new banks, and the State Bank of India, as defined respectively under \nclauses (c), (da), and (nc) of Section 5 of the Banking Regulation Act, 1949. \nC. Definitions \n4. \nIn these Directions, unless the context states otherwise, the terms herein shall \nbear the meanings assigned to them as under: \n(1) \u201cInternal risk transfer\u201d means an internal written record of a transfer of risk \nbetween the banking book and the trading book, or between the GIRR internal \nrisk transfer desk and the trading book (as per the alternate approach in \nparagraph 20), or between the CVA portfolio and the trading book (as per \nparagraphs 23 to 25), done via internal derivatives trades. \n \nThe treatment of internal risk transfer in paragraphs 11 to 25 does not apply to \ninternal transfer of securities between the trading book and the banking book \nwhich shall be considered as reclassification of securities and is governed by \nthe Reserve Bank of India (Commercial Banks \u2013 Classification, Valuation, and \nOperation of Investment Portfolio) Directions, 2025 and Section B of Chapter \nII of these Directions. \n(2) \u201cGeneral Market Risk Capital Requirement\u201d means the capital requirement \n4 \n \ndesigned to capture the risk of loss arising from changes in market prices. \n(3) \u201cMarket risk\u201d means the risk of losses in on-balance sheet and off-balance-\nsheet positions arising from movements in market prices. \n(4) \u201cSpecific Risk capital requirement\u201d means the capital requirement \ndesigned to protect against an adverse movement in the price of an individual \nsecurity owing to factors related to the individual issuer. \n5. \nAll other expressions unless defined herein shall have the same meaning as \nhave been assigned to them under the Banking Regulation Act, 1949 or the Reserve \nBank of India Act, 1934, rules / regulations made thereunder, or any statutory \nmodification or re-enactment thereto or as commonly used in commercial parlance, \nas the case may be. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n5 \n \nChapter-II: Boundary between the banking book and the trading book  \nA. Scope of the trading book \n6. \nTrading book, for the purpose of capital adequacy, shall include all \ninstruments that are classified as \u2018Held for Trading\u2019 as per Reserve Bank of India \n(Commercial Banks \u2013 Classification, Valuation, and Operation of Investment \nPortfolio) Directions, 2025. All other items shall be included in the banking book and \nattract corresponding capital charge for credit risk (or counterparty credit risk, where \napplicable). Accordingly, instruments classified under HTM, AFS, FVTPL (non-HFT), \nand investments in own subsidiaries, joint ventures and associates shall be part of \nthe banking book and shall not attract market risk capital charge, except as per \nparagraphs 16 and 26(2). \nB. Restrictions on reclassifying instruments between the regulatory books \n7. \nIn addition to the conditions set out in paragraph 41 and Chapter VII of the \nReserve Bank of India (Commercial Banks \u2013 Classification, Valuation, and Operation \nof Investment Portfolio) Directions, 2025, any reclassification of instruments between \nthe trading book and the banking book after initial designation shall be subject to the \nprovisions of paragraphs 8 to 10 below. Restrictions as per Chapter VII of the \nDirections ibid also apply to reclassification between FVTPL (HFT) and FVTPL (non-\nHFT) sub-categories. \n8. \nA bank shall not reclassify instruments between the trading book and the \nbanking book for regulatory arbitrage, i.e., with the intention of achieving lower \ncapital requirements. \n9. \nIn case the instrument has been reclassified between the trading book and \nthe banking book, regardless of whether the reclassification has been made at the \ndiscretion of the bank or is beyond the bank\u2019s control (for example, in case of \ndelisting of an equity), a bank shall: \n(1) \ndetermine its total capital requirement (for both banking book and trading \nbook) immediately before and after the reclassification; and \n(2) \nif the bank\u2019s total capital requirement is reduced as a result of reclassification, \nthe bank shall maintain the difference as a disclosed Pillar 1 capital \nsurcharge, in addition to the capital requirements of the book into which the \n6 \n \ninstruments have been reclassified. A bank is not required to calculate the \nPillar 1 capital surcharge on an ongoing basis. \n10. \nA bank may factor in a run-off to the surcharge referred in paragraph 9(2) \nabove as such positions mature, expire or are sold / terminated, in a manner agreed \nwith the Department of Supervision, RBI.  \nC. Treatment of internal risk transfers \n11. \nA bank shall not take into account any internal risk transfers from the trading \nbook to the banking book when determining the regulatory capital requirements. \n12. \nFor internal risk transfers from the banking book to the trading book, \nprovisions of paragraphs 13 to 21 shall apply. A bank may refer to paragraph 109 of \nthe Reserve Bank of India (Commercial Banks \u2013 Classification, Valuation, and \nOperation of Investment Portfolio) Directions, 2025, for the accounting treatment of \ninternal risk transfers.  \nC.1 \nInternal risk transfer of credit risk from banking book to trading book \n13. \nA bank can hedge risk in the banking book either directly through an external \nhedge or through internal risk transfer. When a bank hedges a banking book credit \nrisk exposure using a hedging instrument purchased in its trading book (i.e., using an \ninternal risk transfer), \n(1) \nThe credit exposure in the banking book is deemed to be hedged for capital \nrequirement purposes, if and only if: \n(i) the trading book enters into an external hedge with an eligible third-party \nprotection provider that exactly matches the internal risk transfer; and \n(ii) the external hedge meets the requirements of paragraph 128 of the Reserve \nBank of India (Commercial Banks - Prudential Norms on Capital Adequacy) \nDirections, 2025, vis-\u00e0-vis the banking book exposure. With respect to \nparagraph 128(5)(iv) of the Reserve Bank of India (Commercial Banks - \nPrudential Norms on Capital Adequacy) Directions, 2025, the cap of 60 per \ncent on a credit derivative without a restructuring obligation only applies with \nregard to recognition of credit risk mitigation of the banking book instrument \nfor regulatory capital purposes and not with regard to the amount of the \ninternal risk transfer.  \n7 \n \n(2) \nExternal hedges for the purposes of paragraph 13(1) can be made up of \nmultiple transactions with multiple counterparties as long as the aggregate external \nhedge exactly matches the internal risk transfer, and the internal risk transfer exactly \nmatches the aggregate external hedge. \n14. \nWhere the requirements in paragraph 13 are fulfilled, the banking book \nexposure is deemed to be hedged by the banking book leg of the internal risk \ntransfer for capital purposes in the banking book. Moreover, both the trading book \nleg of the internal risk transfer and the external hedge shall be reckoned for the \nmarket risk capital requirements. \n15. \nWhere the requirements in paragraph 13 are not fulfilled, the banking book \nexposure is not deemed to be hedged by the banking book leg of the internal risk \ntransfer for capital purposes in the banking book. Moreover, the third-party external \nhedge shall be fully included in the market risk capital requirements and the trading \nbook leg of the internal risk transfer shall be fully excluded from the market risk \ncapital requirements. Similar treatment applies for general interest rate risk transfer, \nin case the conditions in paragraph 17 are not met. \n16. \nA banking book short credit position created by an internal risk transfer and \nnot capitalised under the banking book rules shall be capitalised under the market \nrisk rules together with the trading book exposure. Banking book instruments that are \nover-hedged by their respective documented internal risk transfers create a short \n(risk) position in the banking book. \nC.2 \nInternal risk transfer of general interest rate risk (GIRR) from banking \nbook to trading book \n17. \nWhen a bank hedges a banking book interest rate risk exposure using an \ninternal risk transfer with its trading book, the trading book leg of the internal risk \ntransfer shall be treated as a trading book instrument under the market risk \nframework, if and only if: \n(1) \nthe internal risk transfer of the banking book interest rate risk that is being \nhedged and the sources of such risk are documented; \n(2) \nthe internal risk transfer is conducted with a dedicated \u2018GIRR internal risk \ntransfer desk\u2019, which has been specifically approved by the Department of \nSupervision, RBI for this purpose; and \n8 \n \n(3) \nthe dedicated \u2018GIRR internal risk transfer desk\u2019 shall be subject to trading \nbook capital requirements under the market risk framework on a stand-\nalone basis, separate from any other GIRR or other market risks \ngenerated by activities in the trading book. \n18. \n\u2018GIRR internal risk transfer desk\u2019 may be treated as a notional desk where the \ndesk need not have any traders or trading accounts assigned to it. A GIRR internal \nrisk transfer desk shall not have any trading book positions allocated to it, except \nGIRR internal risk transfers between the trading book and the banking book as well \nas any external hedges that meet the conditions specified in paragraph 20. \n19. \nWhere the requirements in paragraph 17 are fulfilled, the banking book leg of \nthe internal risk transfer shall be included in the banking book\u2019s measure of interest \nrate risk exposures for regulatory capital purposes. \n20. \nThe \u2018GIRR internal risk transfer desk\u2019 may include instruments purchased \nfrom the market (i.e., external parties to the bank). Such transactions may be \nexecuted directly between the \u2018GIRR internal risk transfer desk\u2019 and the market. \nAlternatively, the \u2018GIRR internal risk transfer desk\u2019 may obtain the external hedge \nfrom the market via trading book, if and only if, the GIRR internal risk transfer \nentered into with the trading book exactly matches the external hedge from the \nmarket. In this latter case, the respective legs of the GIRR internal risk transfer are \nincluded in the \u2018GIRR internal risk transfer desk\u2019 and trading book. \n21. \nThe trading book leg of internal risk transfers shall fulfil the same \nrequirements as applicable to instruments in the trading book transacted with \nexternal counterparties. \nC.3 \nEligible hedges for the CVA capital requirement \n22. \nEligible external hedges that are recognised in the calculation of the credit \nvaluation adjustment (CVA) capital requirement, as provided in the draft Reserve \nBank of India (Commercial Banks \u2013 Credit Valuation Adjustment Framework) \nDirections, 2026, shall not attract market risk capital requirement. \n23. \nA bank may enter into internal risk transfers between the CVA portfolio and \nthe trading book. Such an internal risk transfer consists of a CVA portfolio side and a \nnon-CVA portfolio side. Where the CVA portfolio side of an internal risk transfer is \nrecognised in the CVA risk capital requirement, the CVA portfolio side shall be \n9 \n \nexcluded from the market risk capital requirement, while the non-CVA portfolio side \nshall be included in the market risk capital requirement. \n24. \nSuch internal CVA risk transfers shall only receive regulatory capital \nrecognition if the internal risk transfer is documented with respect to the CVA risk \nbeing hedged and the sources of such risk. \n25. \nIndependent of the treatment in the CVA risk capital requirement and the \nmarket risk capital requirement, internal risk transfers between the CVA portfolio and \nthe trading book may be used to hedge the counterparty credit risk exposure of a \nderivative instrument in the trading or banking book as long as the requirements of \nthe external hedge similar to paragraph 13 are met. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n10 \n \nChapter-III: Scope of application of market risk \n26. \nWhile calculating market risk capital requirements, a bank shall include: \n(1) \nInterest rate risk and equity risk for trading book instruments; and \n(2) \nForeign exchange risk (including gold and precious metals) for trading book \nand banking book instruments. \n27. \nA bank shall compute and maintain capital charge for market risk at both \ngroup / consolidated level and solo / standalone level. For this purpose, a bank may \nrefer to paragraph 8 of the Reserve Bank of India (Commercial Banks - Prudential \nNorms on Capital Adequacy) Directions, 2025. \n28. \nIrrespective of the reporting frequency, a bank shall meet the capital \nrequirements for market risk on a continuous basis, i.e., at the close of each \nbusiness day.   \n29. \nA bank shall not apply foreign exchange risk capital requirement to any \nposition that is deducted from the bank\u2019s regulatory capital, including a position that \nis hedging such a position.   \n30. \nWhile calculating market risk capital requirements, a bank shall not include \nholdings of capital instruments that are deducted from the bank\u2019s regulatory capital \nor risk weighted at 1250 per cent. This includes: \n(1) \nholdings of the bank\u2019s own eligible regulatory capital instruments; and \n(2) \nholdings of other banks\u2019 and other financial entities\u2019 eligible regulatory capital \ninstruments, as well as intangible assets, which have been deducted from \nregulatory capital. \n31. \nA bank shall not apply market risk capital requirements for securities which \nare a) already matured and remain unpaid; or b) have been classified as a non-\nperforming asset / investment. Such securities shall attract capital only for credit risk. \nA. \nExclusion of certain structural foreign exchange positions from Net \nOpen Position \n32. \nA bank shall have the option to exclude certain structural foreign currency \ninvestments from the calculation of Net Open Position, on both standalone and \nconsolidated basis. \n33. \nThe forex risk positions eligible for exclusion under paragraph 32 above shall \n11 \n \nbe structural (i.e., non-dealing) in nature, including capital investments and \naccumulated / unremitted surplus in overseas consolidated subsidiaries, Joint \nVentures and associates, overseas branches, IFSC Banking Units, and Offshore \nBanking Units in Special Economic Zones denominated in foreign currencies. \n34. \nA bank may opt to exclude structural foreign exchange positions from Net \nOpen Position on a case-to-case basis, in a consistent manner, provided the \nexemption meets each of the criteria mentioned in paragraph 35 below. \n35. \nA bank shall comply with each of the following conditions while excluding \nforeign exchange risk positions under paragraph 32 above:  \n(1) \nThe exclusion is limited to the amount that neutralises the sensitivity of the \ncapital ratio to movements in exchange rates. \n(2) \nThe exclusion from the calculation is made for at least six months.  \n(3) \nThe establishment of a structural foreign exchange position and any changes \nin its position shall follow the bank\u2019s risk management policy for structural \nforeign exchange positions.  \n(4) \nThe exclusion from the calculation shall be applied consistently, with the \nexclusionary treatment of the hedge remaining in place for the life of the \nassets or other items. \n(5) \nThe bank shall document and have available for supervisory review the \npositions and amounts to be excluded from market risk capital requirements. \n36. \nA matched currency risk position will protect a bank against loss from \nmovements in exchange rates, but will not necessarily protect its capital adequacy \nratio. If a bank has its capital denominated in its domestic currency and has a \nportfolio of foreign currency assets and liabilities that is completely matched, its \ncapital / asset ratio will fall if the domestic currency depreciates. By running a short \nrisk position in the domestic currency, the bank can protect its capital adequacy ratio, \nalthough it would result in a loss in the event of appreciation of the domestic \ncurrency. An illustration of the exclusion of structural foreign currency investments \nfrom Net Open Position is provided in paragraph 37 below. \n37. \nIllustration of exclusion of structural foreign currency investments from Net \nOpen Position: \n12 \n \n(1) The paragraphs below provide an example of the exclusion of structural \nforeign currency investments from Net Open Position. The example uses a \nsimplified scenario and is for illustrative purposes only.  \n(2) A bank may adopt an alternative methodology, with reasonable assumptions, \nto determine its maximum Net Open Position to be excluded. The \nmethodology shall be documented in the bank\u2019s risk management policy for \nstructural foreign exchange positions.  \n(3) Assume a bank with the below balance sheet consisting of domestic currency \n(DC) assets / liabilities and foreign currency (FC) assets / liabilities.  \n(4) Case 1: The forex assets and liabilities are perfectly matched. \nForex Assets in FC \n300 \nForex Liabilities in FC \n300 \nExchange Rate \n1 \n  \n  \nForex Assets in DC (a)  \n300 \nForex Liabilities in DC (c) \n300 \nDomestic Assets (b) \n700 \nDomestic Liabilities (d) \n540 \n  \n  \nCapital (e = a + b \u2013 c - d) \n160 \nTotal Assets (f = a + b) \n1000 \n  \n  \nForex exposure (g = a - c) \n0 \n  \n  \nTotal RWA (h=f*100%) \n1000 \n  \n  \nCapital Ratio (i = e / h) \n16.00% \n  \n  \nNote: Forex Assets in Domestic Currency are calculated as Forex Assets in \nForeign Currency * Exchange Rate = 300 * 1 = 300 \n(5) Assume that the foreign currency appreciates, with exchange rate increasing \nfrom 1 to 1.2. Although the forex assets and liabilities increase by the same \npercentage (20 per cent) and hence continue to be perfectly matched, the \nbank\u2019s capital ratio will decline since forex RWAs increase by 20 per cent, \nwhile capital amount remains unchanged.  \nForex Assets in FC \n300 \nForex Liabilities in FC \n300 \nExchange Rate \n1.2 \n  \nForex Assets in DC (a) \n360 \nForex Liabilities in DC (c) \n360 \nDomestic Assets (b) \n700 \nDomestic Liabilities (d) \n540 \n13 \n \n  \nCapital (e = a + b \u2013 c - d) \n160 \nTotal Assets (f = a + b) \n1060 \n  \nForex exposure (g = a - c) \n0 \n  \nTotal RWA (h = f * 100%) \n1060 \n  \nCapital Ratio (i = e / h) \n15.09% \n  \n(6) Case 2: The bank takes a structural long position (i.e., structural forex \npositions listed in paragraph 33 above) in the foreign currency (i.e., short \nposition in the domestic currency).  \nForex Assets in FC \n300 \nForex Liabilities in FC \n200 \nExchange Rate \n1 \n  \n  \nForex Assets in DC (a) \n300 \nForex Liabilities in DC (c) \n200 \nDomestic Assets (b) \n700 \nDomestic Liabilities (d) \n640 \n  \n  \nCapital (e = a + b \u2013 c - d) \n160 \nTotal Assets (f = a + b) \n1000 \n  \n  \nForex exposure (g = a - c) \n100 \n  \n  \nTotal RWA (h = f * 100%) \n1000 \n  \n  \nCapital Ratio (i = e / h) \n16.00% \n  \n  \n(7) Assume that the foreign currency appreciates, with exchange rate increasing \nfrom 1 to 1.2. Forex assets and liabilities increase 20 per cent. RWAs \nincrease from 1000 to 1060 whereas the capital amount increases from 160 to \n180. Overall, the bank\u2019s capital ratio improves from 16 per cent to 16.98 per \ncent. \nForex Assets in FC \n300 \nForex Liabilities in FC \n200 \nExchange Rate \n1.2 \n  \n  \nForex Assets in DC (a) \n360 \nForex Liabilities in DC (c) \n240 \nDomestic Assets (b) \n700 \nDomestic Liabilities (d) \n640 \n  \n  \nCapital (e = a + b - c - d) \n180 \nTotal Assets (f = a + b) \n1060 \n  \n  \nForex exposure (g = a - c) \n120 \n  \n  \nTotal RWA (h = f * 100%) \n1060 \n  \n  \nCapital Ratio (i = e / h) \n16.98%   \n  \n14 \n \n(8) To determine the maximum amount of the risk position that can be excluded \nfrom Net Open Position, the amount of additional capital required to maintain \nthe capital ratio unchanged, for a unit change (1 per cent) in the exchange \nrate is to be calculated.  \nStep 1 \nCalculate the new RWA position with the revised exchange rate. For the \nillustration provided in Case 2 above, assume the foreign exchange rate \nincreases from 1 to 1.01.  \nForex Assets in DC = 300 * 1.01 = 303 \nDomestic Assets in DC = 700 \nTotal Assets = 303 + 700 = 1003 \nTotal RWAs = 1003 * 100% = 1003 \nStep 2 \nNow, calculate the new capital amount required and the increase in capital \namount required in order to keep the capital ratio unchanged. \nInitial capital ratio = 16.00% \nNew capital amount required = Initial capital ratio * New Total RWAs = 16% * \n1003 = 160.48 \nIncrease in capital amount required = New capital amount required \u2013 Initial \ncapital amount = 160.48 \u2013 160.00 = 0.48 \nStep 3 \nAmount of structural foreign exchange position that can be excluded from Net \nOpen Position = (Increase in capital amount required) / 1% = 0.48 / 0.01 = 48 \nInitial NOP from the structural foreign exchange position = Foreign currency \nassets - Foreign currency liabilities = 300 \u2013 200 = 100 \nHence, amount of structural foreign exchange position to be included in Net \nOpen Position = Initial Net Open Position - Amount of structural foreign \nexchange position that can be excluded from Net Open Position = 100 \u2013 48 = \n52 \n15 \n \n(9) Alternate method \nAn alternate method which provides the same result for the maximum amount \nof structural foreign exchange position that can be excluded from Net Open \nPosition is to multiply the capital ratio with the forex RWAs. \nMaximum amount of structural foreign exchange position that can be excluded \nfrom Net Open Position = (Capital / Total RWAs) * Forex RWAs = (160 / 1000) \n* 300 = 48 \n38. \nIn determining the maximum amount of exemption to structural positions as \nper sub-paragraphs 37 (3) to (9) above, a bank shall adhere to the following: \n(i) \nA bank shall use the CET1 ratio on quarter end basis for calculating the \nmaximum amount of exemption to structural positions. \n(ii) \nForex RWAs used in the calculation of structural exemption includes all RWAs \ndenominated in the particular foreign currency, other than the RWAs used for \ncalculation of forex market risk (as per section D of Chapter IV of these Directions). \nFor operational convenience, a bank may, alternatively, include only the credit RWAs \ndenominated in the particular foreign currency.   \n(iii) \nThe amount of structural exemption in a foreign currency shall be capped at \nthe eligible amount of structural positions in that foreign currency.   \n(iv) \nA bank shall re-calculate the amount of structural exemptions on a quarterly \nbasis. \n(v) \nA bank may note that the above example uses certain assumptions and \nsimplifications (such as Risk weight = 100 per cent and equal for forex assets and \ndomestic assets, operational RWAs not considered, etc.). \n(vi) \nThe above example considers the maximum amount of structural foreign \nexchange position for a single foreign currency. In practice, a bank would have to \nseparately calculate the maximum amount of structural foreign exchange position for \neach foreign currency for which it seeks an exclusion from Net Open Position. \n(vii) \nThe illustration only provides the maximum amount of structural foreign \nexchange position that can be excluded from Net Open Position. In order to be \neligible for such exclusion, a bank shall meet all the conditions mentioned in \nparagraphs 32 to 35 above. \n16 \n \nChapter-IV: Calculating risk-weighted assets for market risk \nA. Risk-weighted assets and capital requirements \n39. \nA bank shall use the simplified standardised approach (SSA) for computing \nrisk-weighted assets for market risk. The risk-weighted assets for market risk shall \nbe determined by multiplying the capital requirements calculated as set out in \nparagraph 40 by a factor of 12.5. \n40. \nThe capital requirement arising from the SSA is the simple sum of the capital \nrequirements arising from each of the three risk classes \u2013 namely interest rate (IR) \nrisk, equity (EQ) risk, and foreign exchange (FX) risk as detailed in the formula \nbelow,  \n \n \nwhere: \na) \n = capital requirement prescribed for interest rate risk in Section B of \nthis Chapter, plus additional requirements for option risks from debt \ninstruments (non-delta risks) prescribed in Section E of this Chapter; \nb) \n= capital requirement prescribed for equity risk in Section C of this \nChapter; \nc) \n = capital requirement prescribed for foreign exchange risk in Section \nD of this Chapter, plus additional requirements for option risks from foreign \nexchange instruments (non-delta risks) prescribed in Section E of this \nChapter; \nd) \n = Scaling factor of 1.30; \ne) \n = Scaling factor of 3.50; and \n f) \n= Scaling factor of 1.20. \nB. \nInterest rate risk \n41. \nFor measuring the market risk capital requirements for interest rate risk, a \nbank shall include all positions, whether long or short, in trading book instruments \n(including derivatives and off-balance sheet instruments), within the scope of \nChapter III, whose market values are affected by change in interest rates. Such \ntrading book instruments include, but are not limited to:  \n17 \n \n(1) fixed-rate and floating-rate debt securities and instruments that behave like \nthem, including non-convertible preference shares and convertible securities \nwhich are traded like debt securities; \n(2) derivative products as set out in paragraph 51; and \n(3) positions in any interest rate-related instrument that is sold / lent or posted as \ncollateral under a Repo-style transaction as provided in paragraph 164 of the \nReserve Bank of India (Commercial Banks - Prudential Norms on Capital \nAdequacy) Directions, 2025. \n42. \nA bank shall calculate its market risk capital requirement for interest rate risk \nas follows: \n(1) Identify the instruments in its trading book which have interest rate risk as per \nparagraph 41 above. \n(2) Separate trading book instruments in each currency. \n(3) For each currency: \n(i) calculate the net position of instruments after offsetting as set out in \nparagraphs 55 and 56. \n(ii) include net positions from sub-para (i) above in the calculation of \nspecific risk capital requirement, as per paragraphs 43 to 45, after \napplying offsets as set out in paragraph 46. \n(iii) include net positions from sub-para (i) above in the calculation of its \ngeneral market risk capital requirement, as per paragraphs 47 to 50. \n(4) Aggregate all specific risk and general market risk capital requirements for \neach currency. \nB.1 \nSpecific risk \n43. \nA bank shall calculate the specific risk capital requirements, both for net long \nor net short position in each trading book instrument, as detailed in Table 1 below: \nTable 1: Specific Risk Capital Requirement \nSl.no. \nNature of debt \nsecurities / issuer \nGuidelines on specific risk charge for interest rate risk \n1 \nCentral \nand \nState \nGovernments \n1. The specific risk charge shall be as below:  \ni. Central and State Government securities and securities \n18 \n \nTable 1: Specific Risk Capital Requirement \nSl.no. \nNature of debt \nsecurities / issuer \nGuidelines on specific risk charge for interest rate risk \nguaranteed by Central Government: 0 per cent \nii. Securities guaranteed by State Government \nResidual maturity \nCapital charge \n(%) \n6 months or less  \n0.25 \nMore than 6 months and up to \nand including 24 months  \n1.00 \nMore than 24 months  \n1.60 \n2 \nForeign \nCentral \nGovernments \n1. The specific risk charge shall be as per the table below. \nExternal rating \nCapital charge (%) \nS&P/ \nFitch \nMoody\u2019s \nAAA \nto \nAA \nAaa \nto \nAa3 \n0 \nA to BBB \nA1 \nto \nBaa3 \n \nResidual maturity \nCapital \ncharge \n(%) \n6 months or less  \n0.25 \nMore \nthan \n6 \nmonths and up to \nand including 24 \nmonths  \n1.00 \nMore \nthan \n24 \nmonths  \n1.60 \nBB to B \nBa1 \nto \nB3 \n8 \nBelow B \nBelow \nB3 \n12 \nUnrated \nUnrated \n8 \nProvided that, if a foreign jurisdiction has exercised its \nnational discretion to allow its banks to apply specific risk \ncapital charge for their domestic currency exposures to \ntheir sovereign lower than what is recorded as per the \nexternal rating in the above Table, provided that such \nexposures are funded in the same currency, an Indian \nbank can also use the same risk charge for similar \nexposures in those jurisdictions. However, in case a Host \nSupervisor requires a more conservative treatment to such \nclaims in the books of the Indian bank, the bank shall \nadopt the requirements prescribed by the Host Country \nsupervisors for computing capital adequacy. \n19 \n \nTable 1: Specific Risk Capital Requirement \nSl.no. \nNature of debt \nsecurities / issuer \nGuidelines on specific risk charge for interest rate risk \n2. In the above table, the modifiers \u201c+\u201d or \u201c-\u201d have been \nsubsumed within the main rating category. \n3 \nQualifying category \n1. The specific risk charge shall be as per the table below: \nResidual maturity \nCapital charge (%) \n6 months or less  \n0.25 \nMore than 6 months and up to \nand including 24 months  \n1.00 \nMore than 24 months  \n1.60 \n2. The following securities / issuers shall be included under \nthe \u2018Qualifying\u2019 category. \n(i) Securities issued by Public Sector Entities (PSEs) \nand Multilateral Development Banks (MDBs) \n(ii) Securities issued by other issuers (i.e., other than \nsecurities \nspecifically \nmentioned \nin \nother \ncategories) which are rated Investment Grade (IG) \nby at least two Eligible Credit Rating Agencies \n(ECRA).    \n3. For this purpose, Investment Grade rating means a \nrating of BBB (Baa3 for Moody\u2019s) or higher.  \n4. The modifiers \u201c+\u201d or \u201c-\u201d have been subsumed within the \nmain rating category. \n5. A bank may refer to paragraph 24 of the Reserve Bank \nof India (Commercial Banks - Capital Charge for Credit \nRisk \u2013 Standardised Approach) Directions, 2026 for the list \nof approved ECRA.  \n4 \nNon-equity \ncapital \ninstruments \nof \nfinancial entities \n1. Non-equity capital instruments issued by banks and \nother financial entities, irrespective of the external credit \nrating, shall attract specific risk charge of 12 per cent.  \n2. This treatment shall not apply to investments in non-\nequity capital instruments which are required to be: \n(a) deducted from the regulatory capital of the \ninvestment bank; or \n(b) risk weighted at 250 per cent as per paragraph \n28(8) of the Reserve Bank of India (Commercial \nBanks - Prudential Norms on Capital Adequacy) \n20 \n \nTable 1: Specific Risk Capital Requirement \nSl.no. \nNature of debt \nsecurities / issuer \nGuidelines on specific risk charge for interest rate risk \nDirections, 2025.  \n5 \nOthers \n1. The specific risk charge shall be as per the table below: \nExternal rating \nCapital charge (%) \nBB \n8 \nBelow BB \n12 \nUnrated \n8 \n2. A bank may also refer to paragraphs 4 and 5 at Sl.no.3 \nof this table.  \n44. \nTreatment of Debt Mutual Funds / Exchange Traded Funds (ETF) \nA bank shall calculate the capital requirement of Debt Mutual Funds / ETF held in the \ntrading book as under: \n(1) Investments in open-ended debt mutual funds / ETFs which invest not less than \n90 per cent of their Assets Under Management (AUM) in debt instruments and \nfor which, \n(i) \nfull constituent debt details and average modified duration are available, \nat least as at the end of each month; and \n(ii) \nNet Asset Value (NAV) is available on daily basis, \nshall attract specific risk capital charge as per Table 1 above. \nEquity investments or units in funds including REITs, InvITs and AIFs, and \nsecuritised debt shall not be considered as eligible debt instruments. \n(2) In case of debt mutual funds / ETFs which contain a mix of debt instruments and \nfulfilling all the criteria in sub-paragraph (1) above, the specific risk capital charge \nshall be computed based on the debt instrument attracting the highest specific \nrisk capital charge in the fund.  \n(3) The following investments of debt mutual funds / ETFs shall be subject to \nspecific risk capital charge of 9 per cent: \n(i) Contributions by debt mutual funds to Corporate Debt Market \nDevelopment Fund (CDMDF) in terms of SEBI Regulations. \n21 \n \n(ii) Investments in any other instruments (i.e., other than eligible debt \ninstruments listed in sub-paragraph (1) above), as approved under SEBI \nRegulations. \nThese investments of debt mutual funds / ETFs shall not be considered for \napplying the specific risk capital charge detailed in sub-paragraphs (1) and (2) \nabove. \n(4) For investments in debt mutual funds / ETFs specified in sub-paragraphs (1) and \n(2) above, the general market risk capital charge shall be calculated based on \nthe standardised duration method for interest rate risk, as detailed in Section B.2 \nof this Chapter. For this purpose, the investment in any particular debt mutual \nfund / ETF shall be considered as a single instrument with modified duration \nequal to the average modified duration of the fund and the assumed change in \nyield equal to 1.00 per cent. The investments listed in sub-paragraphs (3)(i) and \n(3)(ii) above shall, however, not be considered in this calculation, and shall be \nsubject to general market risk capital charge of 9 per cent. \n(5) The scaling factor prescribed for interest rate risk in paragraph 40 shall be \napplicable for investments specified in sub-paragraphs (1) and (2) above, \nwhereas the scaling factor prescribed for equity risk in paragraph 40 shall be \napplicable for investments specified in paragraph (3)(i) and (3)(ii) above.   \n(6) All other investments in debt mutual funds / ETFs including but not limited to:  \n(i) investments which do not meet the requirements listed under sub-\nparagraphs (1)(i) and / or (1)(ii) above; and / or  \n(ii) where the debt mutual fund\u2019s / ETF\u2019s investments in debt instruments are \nless than 90 per cent of the fund\u2019s AUM,  \nshall be treated on par with equity for computation of capital charge for market \nrisk, as prescribed in Section C of this Chapter. The scaling factor prescribed for \nequity risk in paragraph 40 shall be applicable to such investments. \nIllustrative examples on the computation of capital charge for debt mutual funds / \nETFs \n(7) Few illustrative examples on the computation of capital charge for debt mutual \nfunds / ETFs are provided below. \n22 \n \nExample 1 \nConsider an investment with current value of \u20b9100 crore in an open-ended debt \nmutual fund with investments only in Central Government debt securities and for \nwhich full constituent debt details and average modified duration (MD) are available \nat each month-end and NAV is available on daily basis. Assume average MD of the \nfund is 4. Assume investment in CDMDF is 0.25 per cent of the current value of fund \n(\u20b9100 crore * 0.25% = \u20b90.25 crore).  \nSpecific risk charge (SRC) \n\u2022 \nSRC for the investment in Central Government bonds = 0 per cent (as per \nTable 1 \u2013 Sl.no.1) \nSRC (amount) = \u20b999.75 crore x 0% = 0 \n\u2022 \nSRC for the contribution to CDMDF = 9 per cent \nSRC (amount) = \u20b90.25 crore x 9% = \u20b90.02 crore \nGeneral market risk charge (GMRC)* \n\u2022 \nFor calculation of GMRC, the entire investment, excluding CDMDF, of \u20b999.75 \ncrore is considered as investment in a single instrument with average MD = 4. \nAssumed change in yield (ACY) = 1.00 per cent. \nGMRC (amount) = Value of investment x MD x ACY = \u20b999.75 crore x 4 x 1% \n= \u20b93.99 crore \nThe GMRC amount calculated as above will be slotted into the respective \ntime band (3.6 to 4.3 years) and the capital charge computed based on the \nstandardised duration method as per Section B.2 of this Chapter.  \n\u2022 \nGMRC for the contribution to CDMDF = 9 per cent \nGMRC (amount) = \u20b90.25 crore x 9% = \u20b90.02 crore \nTotal risk charge (TRC) \n\u2022 \nFor the investment in Central Government bonds, TRC = SRC + GMRC = 0 + \n3.99 = \u20b93.99 crore. Scalar applicable = 1.3 \n\u2022 \nFor the contribution to CDMDF, TRC = SRC + GMRC = 0.02 + 0.02 = \u20b90.04 \ncrore. Scalar applicable = 3.5 \n23 \n \nExample 2 \nConsider an investment with current value of \u20b9250 crore in an open-ended debt \nmutual fund with investments as under: \nInvestment type \nPercentage (%) \nAmount (\u20b9 crore) \nCentral Government debt \nsecurities \n78 \n195 \nCorporate debt securities \n(lowest rating AA, residual \nmaturity \nexceeding \n24 \nmonths) \n18 \n45 \nCDMDF \n0.25 \n0.625 \nOther instruments (REITs, \nInvITs, securitised debt) \n3.75 \n9.375 \nFull constituent debt details and average modified duration (MD) are available at \neach month-end and NAV is available on daily basis. Assume average MD of the \nfund is 6.  \nSpecific risk charge (SRC) \n\u2022 \nSRC will be based on the instrument attracting the highest specific risk capital \ncharge. Hence, SRC for the investment in Central Government bonds and \ncorporate bonds = 1.6 per cent (as per Table 1 \u2013 Sl.no.3) \nSRC (amount) = \u20b9240 crore x 1.60% = \u20b93.84 crore \n\u2022 \nSRC for the contribution to CDMDF and other investments = 9 per cent \nSRC (amount) = \u20b910 crore x 9% = \u20b90.9 crore \nGeneral market risk charge (GMRC)* \n\u2022 \nFor calculation of GMRC, the entire investment, excluding CDMDF and other \ninvestments, of \u20b9240 crore is considered as investment in a single instrument \nwith average MD = 6. Assumed change in yield (ACY) = 1.00 per cent. \nGMRC (amount) = Value of investment x MD x ACY = \u20b9240 crore x 6 x 1% = \n\u20b914.4 crore \nThe GMRC amount calculated as above will be slotted into the respective \ntime band (5.7 to 7.3 years) and the capital charge computed based on the \nstandardised duration method as per Section B.2 of this Chapter.  \n\u2022 \nGMRC for the contribution to CDMDF and other investments = 9 per cent \n24 \n \nGMRC (amount) = \u20b910 crore x 9% = \u20b90.9 crore \nTotal risk charge (TRC) \n\u2022 \nFor the investment in Central Government bonds and Corporate debt \nsecurities, TRC = SRC + GMRC = 3.84 + 14.4 = \u20b918.24 crore. Scalar \napplicable = 1.3 \n\u2022 \nFor the contribution to CDMDF and other investments, TRC = SRC + GMRC = \n0.9 + 0.9 = \u20b91.8 crore. Scalar applicable = 3.5 \nExample 3  \nConsider an investment with current value of \u20b9300 crore in an open-ended debt \nmutual fund with investments as under: \nInvestment type \nPercentage (%) \nAmount (\u20b9 crore) \nCentral Government debt \nsecurities \n85 \n255 \nCorporate debt securities \n(lowest rating AA, residual \nmaturity \nexceeding \n24 \nmonths) \n3 \n9 \nCDMDF \n0.25 \n0.75 \nOther instruments (REITs, \nInvITs, securitised debt) \n11.75 \n35.25 \nFull constituent debt details and average modified duration (MD) are available at \neach month-end and NAV is available on daily basis. Assume average MD of the \nfund is 4. Since the total investments in debt securities are less than 90 per cent of \nthe debt mutual fund\u2019s AUM, the entire investment shall be treated on par with equity \nfor computation of capital charge for market risk as prescribed in Section C of this \nChapter. \nSpecific risk charge (SRC) \n\u2022 \nSRC for the entire investment = 9 per cent \nSRC (amount) = \u20b9300 crore x 9% = \u20b927 crore \nGeneral market risk charge (GMRC) \n\u2022 \nGMRC for the entire investment = 9 per cent \n\u2022 \nGMRC (amount) = \u20b9300 crore x 9% = \u20b927 crore \n \n25 \n \nTotal risk charge (TRC) \n\u2022 For the entire investment, TRC = SRC + GMRC = 27 + 27 = \u20b954 crore. Scalar \napplicable = 3.5 \nExample 4 \nConsider an investment with current value of \u20b9150 crore in a closed-ended debt \nmutual fund investing only in Corporate Bonds. Since the fund is closed-ended, the \nentire investment shall be treated on par with equity for computation of capital \ncharge for market risk as prescribed in Section C of this Chapter. \n Specific risk charge (SRC) \n\u2022 \nSRC for the entire investment = 9 per cent \nSRC (amount) = \u20b9150 crore x 9% = \u20b913.5 crore \nGeneral market risk charge (GMRC) \n\u2022 \nGMRC for the entire investment = 9 per cent \nGMRC (amount) = \u20b9150 crore x 9% = \u20b913.5 crore \nTotal risk charge (TRC) \nFor the entire investment, TRC = SRC + GMRC = 13.5 + 13.5 = \u20b927 crore. Scalar \napplicable = 3.5 \n* The general market risk charge in these Examples 1 and 2 above do not factor in \nthe netting, along with disallowances, with other interest rate risk positions in the \ntrading book as per the standardised duration method, as prescribed in Section B.2 \nof this Chapter. \n45. \nTreatment of securitisation exposures \nA bank shall calculate the specific risk capital requirement of securitisation \nexposures held in the trading book as under: \n(1) \nFor securitisation and re-securitisation transactions undertaken prior to \nSeptember 24, 2021, the treatment of exposures for capital adequacy shall be as \nprovided in Table 2 \u2013 Part A and Table 2 \u2013 Part B below respectively. \n \n26 \n \nTable 2 \u2013 Part A: Securitisation Exposures prior to September 24, 2021 \nRating by \nthe ECAI* \nSpecific Risk Capital Charge \nSecuritisation Exposures \n(in %) \nSecuritisation Exposures relating \nto Commercial Real Estate \nExposures  \n(in %) \nAAA \n1.6 \n8.0 \nAA \n2.4 \n8.0 \nA \n4.0 \n8.0 \nBBB \n8.0 \n8.0 \nBB \n28.0 (100.0 in the case of \noriginators) \n28.0 (100.0 in the case of \noriginators) \nB and below \n or Unrated \n100.0 \n100.0 \n* These ratings indicate the ratings assigned by Indian rating agencies / \nECAIs or foreign rating agencies. In the case of foreign ECAIs, the rating \nsymbols used here correspond to Standard and Poor. The modifiers \u2018+\u2019 or \n\u2018-\u2019 have been subsumed with the main rating category. \n \nTable 2 \u2013 Part B: Re-securitisation Exposures prior to September 24, 2021 \nRating by  \nthe ECAI* \nSpecific Risk Capital Charge \nRe-Securitisation \nExposures (in %) \nRe-Securitisation Exposures \nrelating to Commercial Real \nEstate Exposures (in %) \nAAA \n3.2 \n16.0 \nAA \n4.8 \n16.0 \nA \n8.0 \n16.0 \nBBB \n16.0 \n16.0 \nBB \n56.0 (100.0 in the case of \noriginators) \n56.0 (100.0 in the case of \noriginators) \nB and below \n or Unrated \n100.0 \n100.0 \n* These ratings indicate the ratings assigned by Indian rating agencies / \nECAIs or foreign rating agencies. In the case of foreign ECAIs, the rating \nsymbols used here correspond to Standard and Poor. The modifiers \u2018+\u2019 or \n\u2018-\u2019 have been subsumed with the main rating category. \nRe-securitisation Exposures are not allowed in terms of Reserve Bank of India \n(Commercial Banks \u2013 Securitisation Transactions) Directions, 2025. \n27 \n \n(2) \nFor securitisation transactions undertaken on or after September 24, 2021, the \nspecific risk capital requirement of securitisation exposures that are held in the \ntrading book shall be calculated according to the revised method as set out in \nparagraphs 88 to 125 of the Reserve Bank of India (Commercial Banks - Prudential \nNorms on Capital Adequacy) Directions, 2025. Accordingly, a bank shall calculate \nthe specific risk capital requirement applicable to each securitisation exposure in \ntrading book by dividing the risk weight calculated, as if it were held in the banking \nbook, by 12.5. \n(3) \nA bank shall calculate the maximum possible loss for each individual position \nin a credit derivative or securitisation instrument. Despite sub-paragraphs 45(1), (2) \nand (4), a bank may limit the specific risk capital requirement for an individual \nposition in a credit derivative or securitisation instrument to the maximum possible \nloss. For a short position, the maximum possible loss could be calculated as a \nchange in value due to the underlying names immediately becoming default risk-free. \nFor a long risk position, the maximum possible loss could be calculated as the \nchange in value in the event that all the underlying names were to default with zero \nrecoveries. A bank may refer to Explanation (2) in paragraph 267(7)(ii) of the \nReserve Bank of India (Commercial Banks - Prudential Norms on Capital Adequacy) \nDirections, 2025, for illustrative examples on determining maximum possible loss.   \n(4) \nA bank shall treat a CDS position in trading book as a notional position in the \nreference obligation and the specific risk capital requirement shall be the same as \napplicable to the reference obligation.  \nProvided that, for a CDS position in trading book, where the reference obligation is in \nbanking book, specific risk capital requirement in trading book can be calculated by \ndividing the risk weight applicable to the reference obligation in the banking book by \n12.5. \n46. \nSpecific risk capital requirement for positions hedged by credit derivatives \n(1) \nA bank may, for the purpose of calculating specific risk capital requirement for \na credit derivative and its hedged position, apply:  \n(i) full offset when the values of two legs (i.e., long and short) always move in the \nopposite direction and broadly to the same extent. This would be the case \nwhen:  \n28 \n \na) the two legs consist of completely identical instruments; or  \nb) a long cash position (or credit derivative) is hedged by a total rate of \nreturn swap (or vice versa) and there is an exact match between the \nreference obligation and the underlying exposure (i.e., the cash \nposition). The maturity of the swap itself may be different from that of \nthe underlying exposure. \nIn such cases, no specific risk capital requirement applies to both sides of the \nposition. \n(ii) 80 per cent offset to the side of the transaction with the higher capital \nrequirement and zero specific risk requirement on the other side, after taking \naccount of restrictive payout provisions (such as fixed payouts and materiality \nthresholds) applicable to the hedged position and credit derivative, when the \nvalue of two legs (i.e., long and short) always moves in the opposite direction \nbut not broadly to the same extent. This would be the case when: \n(a) a long cash position (or credit derivative) is hedged by a credit default \nswap (CDS) (or vice versa) and there is an exact match in terms of the \nreference obligation, the maturity of both the reference obligation and \nthe credit derivative, and the currency of the underlying exposure; and  \n(b) key features of the credit derivative contract (e.g., credit event \ndefinitions, settlement mechanisms) do not cause the price movement \nof the credit derivative to materially deviate from the price movements \nof the cash position. \n(iii) the higher of the specific risk capital requirements for two legs when the value \nof the two legs (i.e., long and short) usually move in the opposite direction. \nThis would be the case when: \n(a) The position would have been captured in sub-paragraph 46(1)(i)(b), \nbut there is an asset mismatch between the reference obligation and \nthe underlying exposure. Nonetheless, the position meets the \nrequirements in paragraph 128 of the Reserve Bank of India \n(Commercial Banks - Prudential Norms on Capital Adequacy) \nDirections, 2025. \n29 \n \n(b) The position would have been captured in sub-paragraphs 46(1)(i)(a) \nor 46(1)(ii) but there is a maturity or currency mismatch between the \ncredit protection and the underlying asset. Currency mismatches shall \nfeed into the normal reporting of FX risk. \n(c) The position would have been captured in sub-paragraph 46(1)(ii) but \nthere is an asset mismatch between the cash position (or credit \nderivative) and the credit derivative hedge.  \n(iv) The offset treatment as per sub-paragraphs 46(1)(i) to (iii) above are \napplicable not only when the underlying position being hedged is a cash \nposition, but also when the position being hedged is a CDS or other credit \nderivative. They also apply regardless of whether the cash positions or \nreference obligations of the credit derivative are single-name or securitisation \nexposures.  \n(a) For example, when a long cash position is hedged using a CDS, the 80 \nper cent offset treatment as per sub-paragraph 46(1)(ii) above (the \npartial allowance treatment as per sub-paragraph 46(1)(iii) above) \ngenerally applies when the reference obligation of the CDS is the cash \ninstrument being hedged and the currencies and remaining maturities \nof the two positions are (are not) identical. Similarly, when a purchased \nCDS is hedged with a sold CDS, the 80 per cent offset treatment (the \npartial allowance treatment) generally applies when both the long and \nshort CDSs have the same reference obligations and the currencies \nand remaining maturities of the long and short CDSs are (are not) \nidentical.  \n(b) The full allowance (100 per cent offset as per sub-paragraph 46(1)(i) \nabove) treatment generally applies only when there is zero basis risk \nbetween the instrument being hedged and the hedging instrument, \nsuch as when a cash position is hedged with a total rate of return swap \nreferencing the same cash instrument and there is no currency \nmismatch, or when a purchased CDS position is hedged by selling a \nCDS with identical terms in all respects, including reference obligation, \ncurrency, maturity, documentation clauses (e.g. credit payout events, \n30 \n \nmethods for determining payouts for credit events, etc), and structure \nof fixed and variable payments over time. \n(v) While the prescribed treatment, as per sub-paragraphs 46(1)(i) to (iii) above, \ngenerally operates on a one-to-one basis, a bank may, in principle, consider \narrangements wherein multiple instruments collectively constitute a hedge \neligible for partial offsetting, provided all necessary conditions (i.e., the value \nof two legs moving in opposite directions, key contractual features of the credit \nderivative, identical reference obligations and currency / maturity mismatches) \nare met. \n(2) \nIn cases not captured in paragraph 46(1), a bank shall apply specific risk \ncapital requirement against both sides of the position (i.e., the credit protection and \nthe underlying asset). \nB.2 \nGeneral market risk \n47. \nA bank shall compute the general market risk capital requirement for interest \nrate risk as the sum of four components: \n(1) \nthe net short or long position in the whole trading book; \n(2) \na small proportion of the matched positions in each time band (the \u201cvertical \ndisallowance\u201d); \n(3) \na larger proportion of the matched positions across different time bands (the \n\u201chorizontal disallowance\u201d); and \n(4) \na net charge for positions in options, where appropriate (see Section E of this \nChapter). \n48. \nA bank shall use a separate duration ladder (refer Table 3 and Table 4 below) \nfor each currency and capital requirements shall be calculated for each currency \nseparately and then summed with no offsetting between positions of the opposite \nsign.  \nProvided that, in case of currencies in which business is insignificant, a bank may \nconstruct a single duration ladder and slot, within each appropriate time band, the \nnet long or short position for each currency. Such individual net positions are to be \nsummed within each time band, irrespective of whether they are long or short \npositions, to produce a gross position figure. The gross positions in each time-band \n31 \n \nshall be subject to the assumed change in yield set out in Table 3 with no further \noffsets. A bank\u2019s business in a currency is considered insignificant if the exposure \n(i.e., on-balance sheet items and notional value of off-balance sheet items of \ninstruments in the trading book) in that currency is less than 5 per cent of the total of \neither the bank\u2019s global assets or global liabilities. \n49. \nA bank shall measure the general market risk under standardised duration \nmethod by calculating the price sensitivity (modified duration) of each position \nseparately. The mechanics are as follows: \na) first calculate the price sensitivity (modified duration) of each instrument; \nb) apply the assumed change in yield of between 0.6 and 1.0 percentage \npoints (see Table 3) to the modified duration of the instrument; \nc) slot the resulting sensitivity measures into a duration ladder with the 15 \ntime bands set out in Table 3; \nd) subject the matched long and short positions in each time band to a 5 per \ncent vertical disallowance designed to capture basis risk; and \ne) carry forward the net positions in each time band for horizontal offsetting \nsubject to the disallowances set out in Table 4. \nTable 3: Duration method: time bands and assumed changes in yield \nTime Bands \nAssumed change in \nyield \nTime Bands \nAssumed change in \nyield \nZone 1: \n \nZone 3: \n \n1 month or less \n1.00 \n> 3.6 to 4.3 years \n0.75 \n> 1 to 3 months \n1.00 \n> 4.3 to 5.7 years \n0.70 \n> 3 to 6 months \n1.00 \n> 5.7 to 7.3 years \n0.65 \n> 6 to 12 months \n1.00 \n> 7.3 to 9.3 years \n0.60 \nZone 2: \n \n> 9.3 to 10.6 years \n0.60 \n> 1.0 to 1.9 years \n0.90 \n> 10.6 to 12 years \n0.60 \n> 1.9 to 2.8 years \n0.80 \n> 12 to 20 years \n0.60 \n> 2.8 to 3.6 years \n0.75 \nover 20 years \n0.60 \n \n \n \n \n32 \n \nTable 4: Horizontal disallowances \nZones \nWithin the zones \nBetween adjacent \nzones \nBetween zones 1 and \n3 \nZone 1 \n40% \n40% \n100% \nZone 2 \n30% \nZone 3 \n30% \n50. \nTo measure the general market risk capital requirements for interest rate risk \nin premium payable / receivable for a credit default swap, a bank shall treat the \npresent value of the premium payable / receivable as a notional short / long position \nin Government securities of relevant maturity and apply appropriate capital charge \nfor general market risk to such notional positions.  \nInterest rate derivatives \n51. \nA bank shall include all interest-rate derivatives and off-balance sheet \ninstruments in the trading book which react to changes in interest rates (e.g., FRAs, \nother forward contracts, bond futures, interest rate and cross-currency swaps and \nforward foreign exchange positions). A bank may treat options in a variety of ways as \ndescribed in Section E of this Chapter. A summary of the rules for dealing with \ninterest rate derivatives is set out in paragraph 61. \n52. \nA bank shall convert interest-rate derivatives into notional positions in the \nrelevant underlying as provided in paragraphs 53 and 54 and subject the same to \nspecific and general market risk capital requirements. To calculate the market risk \ncapital requirement for interest rate risk, a bank shall use the fair value of the \nprincipal amount of the underlying or of the notional underlying, based on the \nReserve Bank of India (Commercial Banks \u2013 Classification, Valuation, and Operation \nof Investment Portfolio) Directions, 2025 and prudent valuation guidance set out in \nparagraph 213 of the Reserve Bank of India (Commercial Banks - Prudential Norms \non Capital Adequacy) Directions, 2025. For instruments where the apparent notional \namount differs from the effective notional amount, a bank shall use the effective \nnotional amount. \n53. \nA bank shall treat the futures and forward contracts (including FRAs) as a \ncombination of a long and a short position in a notional government security. The \nmaturity of a future or an FRA shall be the period until delivery or exercise of the \n33 \n \ncontract, plus \u2013 where applicable \u2013 the life of the underlying instrument. For \nexample, a long position in a June three-month interest rate future (taken in April) is \nto be reported as a long position in a government security with a maturity of five \nmonths and a short position in a government security with a maturity of two months. \nWhere a range of deliverable instruments may be delivered to fulfil the contract, a \nbank may elect which deliverable security goes into the duration ladder but shall take \naccount of any conversion factor defined by the exchange. In the case of a future on \na corporate bond index, positions shall be included at the fair value of the notional \nunderlying portfolio of securities. \n54. \nA bank shall treat swaps as two notional positions in government securities \nwith relevant maturities. For example, an interest rate swap under which a bank is \nreceiving floating rate interest and paying fixed will be treated as a long position in a \nfloating rate instrument of maturity equivalent to the period until the next interest \nfixing and a short position in a fixed-rate instrument of maturity equivalent to the \nresidual life of the swap. The separate legs of cross-currency swaps shall be \nreported in the relevant duration ladders for the currencies concerned. \n55. \nA bank may offset the following positions for calculating specific risk and \ngeneral market risk capital requirements: \na) Long and short positions (both actual and notional) in an identical issuance \n(including positions in derivatives). No offsetting is permitted between different \nissues, even where the issuer is the same, since differences in coupon rates, \nliquidity, call features, etc., mean that prices may diverge in the short run. \nb) A matched position in a future or forward and its corresponding underlying.  \nWhen the future or the forward comprises a range of deliverable instruments, a bank \nmay offset short position in the future or forward contract and long position in the \ncorresponding \u201ccheapest-to-deliver\u201d underlying only where \u201ccheapest-to-deliver\u201d \nunderlying security is identifiable and the bank is able to deliver it. The price of the \n\u201ccheapest-to-deliver\u201d security (i.e., the security which shall be the most profitable \nsecurity for the bank to deliver) and the price of the future or forward contract shall, in \nsuch cases, move in close alignment. A bank shall not offset positions in different \ncurrencies, i.e., the separate legs of cross-currency swaps or forward foreign \nexchange positions are to be treated as notional positions in the relevant instruments \n34 \n \nand included in the appropriate calculation for each currency.  \n56. \nA bank may also offset opposite positions in the same category of instruments \nif the positions relate to the same underlying instruments, are of the same nominal \nvalue and are denominated in the same currency. In addition: \n(1) for futures: offsetting positions in the notional or underlying instruments to \nwhich the futures contract relates are for identical products and mature within \nseven days of each other; \n(2) for swaps and FRAs: the reference rates for floating rate positions are \nidentical and the coupons are closely matched (i.e., within 15 basis points); \nand \n(3) for swaps, FRAs, and forwards: the next interest fixing dates or, for fixed \ncoupon positions or forwards, the residual maturities are within the following \nlimits: \n(i) less than one month hence: same day; \n(ii) between one month and one year hence: within seven days; and \n(iii) over one year hence: within 30 days. \n57. \nThe treatment in paragraph 56 is also applicable to the delta-equivalent value \nof options and the separate legs of different swaps. The delta equivalent of the legs \narising out of the treatment of caps and floors as set out in paragraph 91 can also be \noffset against each other under the rules laid down in paragraph 56. \n58. \nA bank with large swap books may use the alternative formula for these \nswaps to calculate the positions to be included in the duration ladder. The alternative \nmethod is to calculate the sensitivity of the net present value implied by the change \nin yield used in the duration method and allocate these sensitivities into the time \nbands set out in paragraph 49.  \n59. \nInterest rate and currency swaps, FRAs, forward FX contracts, and interest \nrate futures shall not be subject to a specific risk capital requirement. This exemption \nalso applies to futures on an interest rate index. However, in the case of futures \ncontracts where the underlying is a debt security, or an index representing a basket \nof debt securities, a bank shall apply specific risk capital requirement according to \nthe credit risk of the issuer as set out in Section B.1 of this Chapter. \n35 \n \n60. \nA bank shall apply general market risk positions in all derivative products in \nthe same manner as for cash positions, subject only to an exemption for fully or very \nclosely matched positions in identical instruments as defined in paragraphs 55 and \n56. The various categories of instruments shall be slotted into the duration ladder \nand treated according to the rules identified earlier. \n61. \nTable 5 presents a summary of the regulatory treatment for interest rate \nderivatives, for market risk purposes. \nTable 5: Summary of treatment of interest rate derivatives \nInstrument \nSpecific risk capital \nrequirement \nGeneral market risk capital \nrequirement \nExchanged-traded future \nGovernment debt security \nNo \n[Yes, for foreign central \ngovernment securities (below \nAA-) - refer Table 1] \nYes, as two positions \nCorporate debt security \nYes \nYes, as two positions \nIndex on interest rates  \nNo \nYes, as two positions \nOver-the-counter (OTC) forward \nGovernment debt security \nNo \n[Yes, for foreign central \ngovernment securities (below \nAA-) - refer Table 1] \nYes, as two positions \nCorporate debt security \nYes \nYes, as two positions \nIndex on interest rates \nNo \nYes, as two positions \nFRAs, swaps \nNo \nYes, as two positions \nForward Foreign Exchange \nNo \nYes, as one position in each \ncurrency \n Options \nEither \n(a) carve out together with \nthe associated hedging \npositions: simplified \napproach;  \n(b) scenario analysis;  or \n(b) delta-plus method \n(gamma and vega shall \nreceive separate capital \nrequirements) \nGovernment debt security \nNo \n[Yes, for foreign central \ngovernment securities (below \nAA-) - refer Table 1] \nCorporate debt security \nYes \nIndex on interest rates \nNo \nFRAs, swaps \nNo \nThe specific risk capital requirement as per this Table is the specific risk capital \n36 \n \nrequirement relating to the issuer of the instrument. Under the credit risk rules, a \nseparate capital requirement for the counterparty credit risk applies. \nC. \nEquity risk \n62. \nFor measuring the market risk capital requirements for equity risk, a bank \nshall include all trading book instruments (including trading book exposures which \nare exempted from capital market exposure ceilings for direct investments), within \nthe scope of application in Chapter III, that exhibit market behaviour like equities. \nSuch trading book instruments include, but are not limited to, equity shares (whether \nvoting or non-voting), convertible securities that behave like equities, equity \ninvestments (or units) in funds, and commitments to buy or sell equity securities. \nEquity investments (or units) in funds assigned to the banking book in accordance \nwith paragraph 41(6)(iv) of the Reserve Bank of India (Commercial Banks \u2013 \nClassification, Valuation, and Operation of Investment Portfolio) Directions, 2025, are \nexcluded from the equity risk capital requirement.  \nSpecific and general market risks \n63. \nA bank shall apply specific risk capital requirement of 9 per cent of bank\u2019s \ngross equity positions (i.e., the sum of all long and short equity positions in each \nindividual equity instrument in an equity market) and general market risk capital \nrequirement of 9 per cent of bank\u2019s overall net position in an equity market (i.e., \ndifference between the sum of the longs and sum of the shorts). The long or short \npositions shall be calculated on a market-by-market basis, i.e., a separate calculation \nshall be carried out for each national market in which the bank holds equities. Short \npositions are not allowed in India except in permitted derivatives and Government \nSecurities.  \nD. \nForeign exchange risk \n64. \nFor measuring the capital requirement for foreign exchange (FX) risk, a bank \nshall include all positions, within the \u2018Scope of application\u2019 in Chapter III above, in \nforeign currencies, including gold, regardless of whether these are in the trading \nbook or banking book. \n65. \nThe Net Open Position shall be calculated as under: \n(i) Measure the exposure in a single currency position as set out in \nparagraphs 66 to 73 below. \n37 \n \n(ii) Measure the risks inherent in a bank\u2019s mix of the long and short positions \nin different currencies as set out in paragraphs 77 to 83 below. \nD.1 \nMeasuring the exposure in a single currency \n66. \nThe bank\u2019s Net Open Position in each currency shall be calculated by \nsumming: \n(1) the net spot position (i.e., all asset items less all liability items, including \naccrued interest, denominated in the currency in question); \n(2) the net forward position (i.e., all amounts to be received less all amounts to be \npaid, as indicated in paragraph 69 below); \n(3) guarantees (and similar instruments) that are certain to be called and are \nlikely to be irrecoverable; \n(4) net future income / expenses not yet accrued / due but where the amounts are \ncertain and have been fully hedged by the bank, at its discretion; \n(5) any other item representing a profit or loss in foreign currencies (depending \non particular accounting conventions in different countries); and \n(6) the net delta-based equivalent of the total book of foreign currency options. \n67. \nOptions are also subject to a separately calculated capital requirement for \ngamma and vega risks as described in paragraphs 89 to 93. Alternatively, options \nand their associated underlying are subject to one of the other methods described in \nSection E of this Chapter. \n68. \nAll open positions from onshore and offshore operations are captured in the \ncalculation of Net Open Position, as per paragraph 66. Hence, a bank is not required \nto separately calculate onshore and offshore Net Open Positions. Positions from \noffshore operations include structural forex positions (after applying the structural \nexemption provision) and other items contributing to Net Open Position not captured \nin the structural forex position. For example, forward positions denominated in GBP \nof a US branch of a bank will not be captured through the structural forex position \nand shall be included separately in Net Open Position. \n69. \nThe net forward position includes:  \n(1) tom and spot transactions which are not yet settled; \n38 \n \n(2) forward and futures transactions; and \n(3) principal on cross-currency swaps and any other forex derivative transactions \nnot included in the spot position. \n70. \nPositions in gold (spot plus forward) shall be first expressed in terms of the \nstandard unit of measurement (tonnes / kilos / ounces, etc.), with the net position \nbeing valued at current spot rates. \n71. \nWhere gold is part of a forward contract (quantity of gold to be received or to \nbe delivered), any interest rate or foreign currency exposure from the other leg of the \ncontract shall be reported as set out in Section B of this Chapter and paragraph 66. \n72. \nInterest, other income, and expenses shall be treated as follows: Interest \naccrued (i.e., earned but not yet received) and accrued expenses shall be included \nas a spot position. Unearned but expected future interest and anticipated expenses \nmay be excluded unless the amounts are certain and the bank has taken the \nopportunity to hedge them. If a bank includes future income / expenses, it shall do so \non a consistent basis, and it would not be permitted to select only those expected \nfuture flows which reduces its position. \n73. \nMeasurement of derivative positions: A bank shall use the current spot rates, \nwithout present value adjustment, for measuring derivative positions. \nD.2 \nOverseas operations in Net Open Position \n74. \nTreatment of capital invested in overseas operations: Subject to the \u2018Scope of \napplication\u2019 in Chapter III, a bank shall include all capital investments in overseas \noperations under the net spot position for calculation of Net Open Position. For this \npurpose, overseas operations of a bank shall include overseas branches, IFSC \nBanking Units and Offshore Banking Units in Special Economic Zones, as well as \noverseas subsidiaries, associates, and joint ventures.  \n75. \nTreatment of accumulated surplus / unremitted surplus of overseas \noperations:  Subject to the \u2018Scope of application\u2019 in Chapter III, a bank shall include \nall accumulated surplus / unremitted surplus of overseas operations under the net \nspot position for calculation of Net Open Position. \n76. \nA bank shall include the structural positions, i.e., capital invested in and \naccumulated surplus / unremitted surplus of overseas operations (mentioned in \n39 \n \nparagraphs 74 and 75) in Net Open Position based on quarter-end position. \nD.3 \nMeasuring the foreign exchange risk in a portfolio of foreign currency \npositions and gold \n77. \nFor measuring the foreign exchange risk in a portfolio of foreign currency \npositions and gold, a bank shall use a shorthand method which treats all currencies \nequally. \n78. \nUnder the shorthand method, the nominal amount of the net position in each \nforeign currency and in gold is converted at spot rates into the reporting currency. \nThe overall Net Open Position is measured by aggregating: \n(1) the sum of the net short positions or the sum of the net long positions, \nwhichever is greater; plus \n(2) the net position (short or long) in gold, regardless of sign. \n79. \nFor calculating Net Open Position as per the shorthand method, a bank shall \nuse spot rates based on financial benchmarks administered by benchmark \nadministrators authorised under the relevant directions issued by FMRD. \n80. \nWhere the bank is assessing its foreign exchange risk on a consolidated \nbasis, it may be technically impractical, in the case of some marginal operations, to \ninclude the currency positions of a foreign branch or subsidiary of the bank. In such \ncases, the internal limit in each currency may be used as a proxy for the positions. \nProvided there is adequate ex-post monitoring of actual positions against such limits, \nthe limits shall be added, without regard to sign, to the Net Open Position in each \ncurrency. \n81. \nTransactions undertaken by a bank till the end of business day shall be \nincluded for calculation of Net Open Position. The transactions undertaken after the \nend of business day may be taken into the positions for the next day. For this \npurpose, a bank may define its own end of business day timings, but the same shall \nbe determined as per a duly approved internal policy and followed on a consistent \nbasis. \n82. \nThe capital requirement for foreign exchange positions, including gold, shall \nbe 9 per cent of the overall Net Open Position computed using the shorthand \nmethod. This capital requirement is in addition to the capital requirement for credit \n40 \n \nrisk, interest rate risk, or any other risks on the on-balance sheet and off-balance \nsheet items pertaining to foreign exchange and gold transactions. \nIllustration: See example in Table below.  \n \n   Table: Example of the shorthand measure of foreign exchange risk \nJPY \nEUR \nGBP \nCAD \nUSD \nGold \nNet position per currency +50 \n+100 \n+150 \n-20 \n-180 \n-35 \nNet Open Position \n+300 \n-200 \n35 \n83. \nThe capital requirement will be 9 per cent of the overall Net Open Position. \nThus, the capital requirement would be 9 per cent of the higher of either the net long \ncurrency positions or the net short currency positions (i.e., 300) and of the net \nposition in gold (35) = 335 x 9 per cent = 30.15 (scalars would be applied as \nprescribed). \n84. \nA bank which is subject to the Master Direction \u2013 Risk Management and Inter-\nBank Dealings, as amended from time to time, shall be guided by the Direction ibid, \nand related directions, for other instructions related to Net Open Position, including \ninter alia, reporting, applicable limit, and limit for Net Open Position involving Rupee \nas one of the currencies (NOP-INR). \nE. Treatment of options \n85. \nIn recognition of the wide diversity of banks\u2019 activities in options and the \ndifficulties of measuring price risk for options, two alternative approaches are \npermissible as under: \n(1) \na bank which solely uses purchased options may use the simplified approach \ndescribed in paragraphs 87 and 88. This approach may also be adopted by a \nbank, in case it has all its written option positions hedged by perfectly matched \nlong positions in exactly the same options, in which case no capital charge for \nmarket risk is required for these positions. \n(2) \na bank which also writes options shall either use the delta-plus method or \nscenario approach which are the intermediate approaches as set out in \nparagraphs 89 to 99. \n86. \nIn the simplified approach for options, the positions for the options and the \nassociated underlying, cash or forward, are not subject to the standardised \n41 \n \nmethodology but rather are carved-out and subject to separately calculated capital \nrequirements that incorporate both general market risk and specific risk. The risk \nnumbers thus generated are then added to the capital requirements for the relevant \ncategory, i.e., interest rate related instruments and foreign exchange as described in \nSections B and D of this Chapter. The delta-plus method uses the sensitivity \nparameters or Greek letters associated with options to measure their market risk and \ncapital requirements. Under this method, the delta-equivalent position of each option \nbecomes part of the simplified standardised approach set out in Sections B to D of \nthis Chapter with the delta-equivalent amount subject to the applicable general \nmarket risk charges. Separate capital requirements are then applied to the gamma \nand vega risks of the option positions. The scenario approach uses simulation \ntechniques to calculate changes in the value of an options portfolio for changes in \nthe level and volatility of its associated underlyings. Under this approach, the general \nmarket risk capital requirement is determined by the scenario grid (i.e., the specified \ncombination of underlying and volatility changes) that produces the largest loss. For \nthe delta-plus method and the scenario approach, the specific risk capital \nrequirements are determined separately by multiplying the delta-equivalent of each \noption by the specific risk weights set out in Section B.1 this Chapter. \nSimplified approach \n87. \nA bank which handles a limited range of purchased options only may use the \nsimplified approach set out in Table 6. As an example of how the calculation would \nwork, if a holder of 100 shares currently valued at Rs.10 each holds an equivalent \nput option with a strike price of Rs.11, the capital requirement would be: Rs.1,000 x \n18% (i.e., 9% specific plus 9% general market risk) = Rs.180, less the amount the \noption is in the money (Rs.11 - Rs.10) x 100 = Rs.100, i.e., the capital requirement \nwould be Rs.80. A similar methodology applies for options whose underlying is a \nforeign currency or an interest rate related instrument. \nTable 6: Simplified approach: capital requirements \nPosition \nTreatment \nLong cash and long \nput or \nshort cash and long \nThe capital requirement shall be the market value of the \nunderlying securityi multiplied by the sum of specific and \ngeneral market risk capital requirementii for the underlying \n42 \n \ncall \nless the amount the option is in the money (if any) \nbounded at zeroiii \nLong call or \nlong put \nThe capital requirement shall be the lesser of: (i) the \nmarket value of the underlying security multiplied by the \nsum of specific and general market risk capital \nrequirementiii for the underlying and (ii) the market value of \nthe optioniv \n88. \nIn determining the capital requirement as per Table 6 above, the following \nmay be noted (refer to the footnote numbers provided in Table 6): \n(i) In some cases, such as foreign exchange, it may be unclear which side is the \nunderlying security; this shall be taken to be the asset that would be received \nif the option were exercised. In addition, the nominal value shall be used for \nitems where the market value of the underlying instrument could be zero, e.g., \ncaps and floors, swaptions, etc. \n(ii) Some options (e.g., where the underlying is an interest rate, a currency) bear \nno specific risk but specific risk will be present in the case of options on \ncertain interest rate related instruments (e.g., options on a corporate debt \nsecurity or corporate bond index; see Section B.1 of this Chapter for the \nrelevant capital requirements). The capital requirement under this measure for \ncurrency options shall be 9 per cent. \n(iii) For options with a residual maturity of more than six months, the strike price \nshall be compared with the forward, not current price. A bank unable to do this \nshall take the \u2018in the money\u2019 amount to be zero. \n(iv) Where the position does not fall within the trading book (i.e., options on \ncertain foreign exchange positions not belonging to the trading book), the \nbook value may be used instead. \nDelta-plus method \n89. \nA bank using delta-plus method shall include delta-weighted options positions \nwithin the simplified standardised approach set out in Sections B and D of this \nChapter. Such options shall be reported as a position equal to the market value of \nthe underlying multiplied by the delta. However, since delta does not sufficiently \n43 \n \ncover the risks associated with options positions, a bank shall also measure gamma \n(which measures the rate of change in delta) and vega (which measures the \nsensitivity of the value of an option with respect to a change in volatility) sensitivities \nin order to calculate the total capital requirement. These sensitivities shall be \ncalculated according to an approved exchange model or the bank\u2019s proprietary \noptions pricing model subject to oversight by the Reserve Bank.  \n90. \nThe Reserve Bank may require a bank doing business in certain classes of \nexotic options (e.g., barriers, digitals) or in options \u201cat the money\u201d that are close to \nexpiry to use the scenario approach which can accommodate more detailed \nrevaluation approaches. \n91. \nDelta-weighted positions with debt securities or interest rates as the \nunderlying shall be slotted into the interest rate time bands, as set out in Section B.2 \nof this Chapter, under the following procedure. A two-legged approach shall be used \nas for other derivatives, requiring one entry at the time the underlying contract takes \neffect and a second at the time the underlying contract matures. For instance, a \nbought call option on a June three-month interest-rate future will in April be \nconsidered, on the basis of its delta-equivalent value, to be a long position with a \nmaturity of five months and a short position with a maturity of two months. The \nwritten option will be similarly slotted as a long position with a maturity of two months \nand a short position with a maturity of five months. Similarly, a two-month call option \non a bond future, where delivery of the bond takes place in September, would be \nconsidered in April as being long the bond and short a five-month deposit, both \npositions being delta-weighted. Floating rate instruments with caps or floors shall be \ntreated as a combination of floating rate securities and a series of European-style \noptions. For example, the holder of a three-year floating rate bond indexed to six-\nmonth MIBOR with a cap of 15 per cent shall treat it as: \n(1) \na debt security that reprices in six months; and \n(2) \na series of five written call options on an FRA with a reference rate of 15 per \ncent, each with a negative sign at the time the underlying FRA takes effect \nand a positive sign at the time the underlying FRA matures. The rules applying \nto closely matched positions set out in paragraph 56 will also apply in this \nrespect. \n44 \n \n92. \nThe capital requirement for options on FX and gold positions shall be based \non the method for FX rate risk as set out in Section D of this Chapter. For delta risk, \nthe net delta-based equivalent of the foreign currency and gold options shall be \nincorporated into the measurement of the exposure for the respective currency (or \ngold) position.  \n93. \nIn addition to the above capital requirements arising from delta risk, a bank \nusing the delta-plus method shall calculate the gamma and vega for each option \nposition (including hedge positions) separately. The capital requirements shall be \ncalculated in the following way: \n(1) \nFor each individual option a gamma impact shall be calculated according to a \nTaylor series expansion as follows, where VU is the variation of the underlying \nof the option. \n \n(2) \nVU is calculated as follows: \ni. \nFor interest rate options if the underlying is a bond, the price sensitivity \nshall be worked out using the duration method set out in Section B.2 of \nthis Chapter. An equivalent calculation shall be carried out where the \nunderlying is an interest rate. \nii. \nFor foreign exchange and gold options: the market value of the \nunderlying shall be multiplied by 9 per cent. \nThe basic rules set out here for interest rate options do not attempt to \ncapture specific risk when calculating gamma capital requirements. \nHowever, the Reserve Bank may require a specific bank to do so. \n(3) \nFor the purpose of this calculation the following positions shall be treated as \nthe same underlying: \ni. \nfor interest rates, each time band as set out in Section B.2 of this \nChapter (positions have to be slotted into separate duration ladders by \ncurrency); and \nii. \nfor foreign currencies and gold, each currency pair and gold.  \n  \n(4) \nEach option on the same underlying will have a gamma impact that is either \n45 \n \npositive or negative. These individual gamma impacts shall be summed, \nresulting in a net gamma impact for each underlying that is either positive or \nnegative. Only those net gamma impacts that are negative shall be included in \nthe capital requirement calculation. \n(5) \nThe total gamma risk capital requirement shall be the sum of the absolute \nvalue of the net negative gamma impacts as calculated above. \n(6) \nFor volatility risk, a bank shall calculate the capital requirements by multiplying \nthe sum of the vega risks for all options on the same underlying, as defined \nabove, by a proportional shift in volatility of \u00b1 25%. \n(7) \nThe total capital requirement for vega risk shall be the sum of the absolute \nvalue of the individual capital requirements that have been calculated for vega \nrisk. \nScenario approach \n94. \nA bank may opt to base the market risk capital requirement for options \nportfolios and associated hedging positions on scenario matrix analysis. Under this \napproach, a bank shall specify a fixed range of changes in the option portfolio\u2019s risk \nfactors and calculate changes in the value of the option portfolio at various points \nalong this grid. For the purpose of calculating the capital requirement, the bank shall \nrevalue the option portfolio using matrices for simultaneous changes in the option\u2019s \nunderlying rate or price and in the volatility of that rate or price. A different matrix \nshall be set up for each individual underlying as defined in paragraph 93 above. As \nan alternative, a bank that is significant trader in interest rate options, may base the \ncalculation on a minimum of six sets of time bands. When using this method, not \nmore than three of the time bands as defined in paragraph 49 shall be combined into \nany one set. \n95. \nThe options and related hedging positions shall be evaluated over a specified \nrange above and below the current value of the underlying. The range for interest \nrates shall be consistent with the assumed changes in yield in paragraph 49. A bank \nusing the alternative method for interest rate options set out in paragraph 94 above \nshall use, for each set of time bands, the highest of the assumed changes in yield \napplicable to the group to which the time bands belong. If, for example, the time \nbands 3.6 to 4.3 years, 4.3 to 5.7 years, and 5.7 to 7.3 years are combined the \n46 \n \nhighest assumed change in yield of these three bands would be 0.75. For foreign \nexchange and gold, the range is \u00b1 8 per cent. For all risk categories, at least seven \nobservations (including the current observation) shall be used to divide the range \ninto equally spaced intervals. \n96. \nThe second dimension of the matrix entails a change in the volatility of the \nunderlying rate or price. A bank shall, at the minimum, use a single change in the \nvolatility of the underlying rate or price equal to a shift in volatility of + 25% and - \n25%. As circumstances warrant, however, the Reserve Bank may choose to require \nthat a different change in volatility be used and / or that intermediate points on the \ngrid be calculated. \n97. \nAfter calculating the matrix, each cell contains the net profit or loss of the \noption and the underlying hedge instrument. The capital requirement for each \nunderlying shall then be calculated as the largest loss contained in the matrix. \n98. \nIn case the Reserve Bank is not satisfied with the application of the scenario \nanalysis by any specific bank, particularly as regards the precise way that the \nanalysis is constructed, the Reserve Bank may require the bank to use the delta-plus \nmethod.  \n99. \nBesides the options risks mentioned above, a bank shall be conscious of the \nother risks also associated with options, e.g., rho (rate of change of the value of the \noption with respect to the interest rate) and theta (rate of change of the value of the \noption with respect to time). While the Reserve Bank is not mandating a \nmeasurement system for those risks at present, a bank undertaking significant \noptions business shall, at a minimum, monitor such risks closely. Additionally, such a \nbank may incorporate rho into its capital calculations for interest rate risk. \n \n \n \n \n \n \n47 \n \nChapter-V: Disclosures and Repeal Provisions \nA. Disclosures \n100. A bank shall disclose the following qualitative as well as quantitative \ninformation on its market risk as part of its Pillar 3 disclosure requirements under the \nBasel III framework: \na) Table 1: General qualitative disclosure requirements related to market risk. \nb) Table 2: Market risk under the simplified standardised approach. \n101. The detailed templates and disclosure frequency are provided in Annex I. \nB. Repeal Provisions \n102. With the implementation of these Directions, Section D (except sub-section \nD.8) on \u2018Capital charge for market risk\u2019 of Chapter IV on \u2018Risk weighted assets \n(RWAs)\u2019 of the Reserve Bank of India (Commercial Banks - Prudential Norms on \nCapital Adequacy) Directions, 2025 shall stand repealed. All the repealed \ninstructions are deemed to have been in force prior to the coming into effect of these \nDirections. The Directions, instructions and guidelines repealed prior to the issuance \nof these Directions shall continue to remain repealed. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n48 \n \nAnnex I \nBasel III Disclosure Format \nThe market risk disclosures include the market risk capital requirements calculated \nfor trading book and banking book exposures that are subject to market risk capital \nrequirements as per these Directions, including capital requirements for \nsecuritisation positions held in the trading book. However, it excludes the \ncounterparty credit risk capital requirements that apply to the same exposures. \nTable 1: General qualitative disclosure requirements related to market risk \nPurpose: Provide a description of the risk management objectives and policies for \nmarket risk as defined in paragraphs 4(3) and 26. \nScope of application: Mandatory for all banks  \nContent: Qualitative information \nFrequency: Annual \nFormat: Flexible \nA bank shall describe its risk management objectives and policies for market risk \naccording to the framework as follows: \n(a) Strategies and processes of the bank, which shall include an explanation and / \nor a description of: \n\u2022 The bank's strategic objectives in undertaking trading activities, as well as \nthe processes implemented to identify, measure, monitor, and control the \nbank's market risks, including policies for hedging risk and the strategies / \nprocesses for monitoring the continuing effectiveness of hedges. \n\u2022 Policies for determining whether a position is designated as trading, \nincluding the definition of stale positions and the risk management policies \nfor monitoring those positions. In addition, a bank shall describe cases \nwhere instruments are assigned to the trading or banking book contrary to \nthe general presumptions of their instrument category and the market and \ngross fair value of such cases, as well as cases where instruments have \nbeen moved from one book to the other since the last reporting period, \nincluding the gross fair value of such cases and the reason for the move. \n\u2022 Description of internal risk transfer activities, including the types of internal \nrisk transfer desk (Section C of Chapter II). \n(b) The structure and organisation of the market risk management function, \nincluding a description of the market risk governance structure established to \nimplement the strategies and processes of the bank discussed in row (a) above. \n(c) The scope and nature of risk reporting and / or measurement systems. \n \n \n \n49 \n \nTable 2: Market risk under the simplified standardised approach \nPurpose: Provide the components of the capital requirement under the simplified \nstandardised approach for market risk \nScope of application: Mandatory for all banks  \nContent: Capital requirement \nFrequency: Semi-annual \nFormat: Fixed. Additional rows can be added to break down other risks. \nAccompanying narrative: A bank shall supplement the template with a narrative \ncommentary to explain any significant changes in the reporting period and the key \ndrivers of such changes. \n \n \nA \nB \nC \nD \n \n \nOutright \nProducts \nOptions \nSimplified \napproach \nDelta-plus \nmethod \nScenario \napproach \n1 \nInterest Rate Risk \n \n \n \n \n2 \nEquity Risk \n \n \n \n \n3 \nForeign \nExchange \nRisk \n \n \n \n \n4 \nTotal \n \n \n \n \nExplanation: \nA) Outright products: positions in products other than options. This includes the \ncapital requirement under Sections B to D of Chapter IV. \nB) Options under the simplified approach: capital requirements for option risks \n(non-delta risks) under paragraphs 87 and 88. \nC) Options under the delta-plus method: capital requirements for option risks (non-\ndelta risks) under paragraphs 89 to 93. \nD) Options under the scenario approach: capital requirements for option risks \n(non-delta risks) under paragraphs 94 to 99. \n \n \n \n \n \n \n \n \n \n",
+    "extracted_links": [
+      {
+        "url": "https://www.rbi.org.in/",
+        "context": "www.rbi.org.in"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13148",
+        "context": "Reserve Bank of India (Commercial Banks \u2013 Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025 and Section B of Chapter"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13148",
+        "context": "Operation of Investment Portfolio) Directions, 2025 II of these Directions."
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13148",
+        "context": "Reserve Bank of India Operation of Investment"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13148",
+        "context": "(Commercial Banks \u2013 Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025. All other items shall be included in the banking book and"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13148",
+        "context": "Portfolio) Directions, 2025. attract corresponding capital"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13148",
+        "context": "Reserve Bank of India (Commercial Banks \u2013 Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025, any reclassification of instruments between"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13148",
+        "context": "of Investment Portfolio) Directions, 2025, the trading book and the banking book after"
+      },
+      {
+        "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13148",
+        "context": "Reserve Bank of India (Commercial Banks \u2013 Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025, for the accounting treatment of"
+      },
+      {
+        "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13148",
+        "context": "Operation of Investment Portfolio) Directions, 2025, internal risk transfers."
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Reserve Adequacy)"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Bank of India (Commercial Banks - Prudential Norms on Capital Adequacy) Directions, 2025, vis-\u00e0-vis the banking book exposure. With respect to"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Directions, 2025, paragraph 128(5)(iv)"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Reserve Bank of India (Commercial Banks - Adequacy) Directions, 2025, the cap of 60 per"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Prudential Norms on Capital Adequacy) Directions, 2025, cent on a credit derivative without a restructuring obligation"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=5140",
+        "context": "draft Reserve Adjustment Framework)"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=5140",
+        "context": "Bank of India (Commercial Banks \u2013 Credit Valuation Adjustment Framework) Directions, 2026, shall not attract market risk capital requirement."
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=5140",
+        "context": "Directions, 2026, 23. A bank may"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Reserve Bank of India (Commercial Banks - Prudential Adequacy) Directions, 2025."
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Norms on Capital Adequacy) Directions, 2025. 28. Irrespective of the reporting frequency,"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Reserve Bank of India (Commercial Banks - Prudential Norms on Capital Adequacy) Directions, 2025."
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Adequacy) Directions, 2025. 42. A bank shall calculate its market"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13399",
+        "context": "Reserve Bank Charge for Credit"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13399",
+        "context": "of India (Commercial Banks - Capital Charge for Credit Risk \u2013 Standardised Approach) Directions, 2026 for the list"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13399",
+        "context": "Risk \u2013 Standardised Approach) Directions, 2026 of approved ECRA."
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Reserve Bank of India (Commercial Prudential Norms on Capital Adequacy)"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Banks - Prudential Norms on Capital Adequacy)"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Directions, 2025."
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13150",
+        "context": "Reserve Bank of India Directions, 2025."
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13150",
+        "context": "(Commercial Banks \u2013 Securitisation Transactions) Directions, 2025."
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Reserve Bank of India (Commercial Banks - Prudential Adequacy) Directions, 2025. Accordingly, a bank shall calculate"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Norms on Capital Adequacy) Directions, 2025. the specific risk capital requirement applicable"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Reserve Bank of India (Commercial Banks - Prudential Norms on Capital Adequacy) Directions, 2025, for illustrative examples on determining maximum possible loss."
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Directions, 2025, (4) A bank shall"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Reserve Bank of India on Capital Adequacy)"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "(Commercial Banks - Prudential Norms on Capital Adequacy) Directions, 2025."
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Directions, 2025."
+      },
+      {
+        "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13148",
+        "context": "Reserve Bank of India (Commercial Banks \u2013 Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025 and prudent valuation guidance set out in"
+      },
+      {
+        "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13148",
+        "context": "of Investment Portfolio) Directions, 2025 paragraph 213 of the Reserve Bank of India"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Reserve Bank of India (Commercial Banks - Prudential Norms Adequacy) Directions, 2025. For instruments where the apparent notional"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "on Capital Adequacy) Directions, 2025. amount differs from the effective notional"
+      },
+      {
+        "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13148",
+        "context": "Reserve Bank of India (Commercial Banks \u2013 Operation of Investment Portfolio) Directions, 2025, are"
+      },
+      {
+        "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13148",
+        "context": "Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025, excluded from the equity risk capital requirement."
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Reserve Bank of India (Commercial Banks - Prudential Norms on Adequacy) Directions, 2025 shall stand repealed. All the repealed"
+      },
+      {
+        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+        "context": "Capital Adequacy) Directions, 2025 instructions are deemed to have been in"
+      }
+    ],
+    "important_dates": [
+      {
+        "date": "September 21, 2026",
+        "context": "6-27                                    September 21, 2026    Reserve Bank of India (Commercial Ba"
+      },
+      {
+        "date": "April 1, 2027",
+        "context": "Directions shall come into effect from April 1, 2027.  B. Applicability  3.  These Direction"
+      },
+      {
+        "date": "September 24, 2021",
+        "context": "ation transactions undertaken prior to  September 24, 2021, the treatment of exposures for capital"
+      },
+      {
+        "date": "September 24, 2021",
+        "context": "rt A: Securitisation Exposures prior to September 24, 2021  Rating by  the ECAI*  Specific Risk Ca"
+      },
+      {
+        "date": "September 24, 2021",
+        "context": "B: Re-securitisation Exposures prior to September 24, 2021  Rating by   the ECAI*  Specific Risk C"
+      },
+      {
+        "date": "September 24, 2021",
+        "context": "ion transactions undertaken on or after September 24, 2021, the  specific risk capital requirement"
+      }
+    ]
+  },
+  {
     "title": "Reserve Bank of India (Rural Co-operative Banks \u2013 Know Your Customer) Amendment Directions, 2026",
     "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2621136F543AAF54E3C83DC6E3100941596.PDF",
     "file_extracted_text": " \n \nRBI/2026-27/262 \nDOR.AML.REC.223/14.01.005/2026-27                                            September 18, 2026   \n \nReserve Bank of India (Rural Co-operative Banks \u2013 Know Your Customer) \nAmendment Directions, 2026 \nReserve Bank has issued Reserve Bank of India (Rural Co-operative Banks \u2013 Know Your \nCustomer) Directions, 2025 dated November 28, 2025 (hereinafter referred to as the \nDirections) in compliance with the provisions of the Prevention of Money Laundering Act, \n2002, and the Prevention of Money Laundering (Maintenance of Records) Rules, 2005. \nThe Directions in paragraph 4(1)(v) allow the banks to alternatively obtain the original \ncertified copy which are certified by any one of the authorities / authorised officials \nmentioned therein in case of Non-Resident Indians (NRIs) and Persons of Indian Origin \n(PIOs), as defined in Foreign Exchange Management (Deposit) Regulations, 2016 {FEMA \n5(R)}. The extant instructions have since been reviewed and it has been decided to extend \nthe above facility in case of Foreign Portfolio Investors (FPIs). \n2. Accordingly, in exercise of the powers conferred by sections 35A of the Banking \nRegulation Act, 1949, the Banking Regulation Act (AACS), 1949, read with section 56 of \nthe Act ibid., section 10(2) read with section 18 of Payment and Settlement Systems Act \n2007 (Act 51 of 2007), section 11(1) of the Foreign Exchange Management Act, 1999, \nRule 9(14) of the Prevention of Money-Laundering (Maintenance of Records) Rules, \n2005, and all other enabling laws in this regard, the Reserve Bank being satisfied that it \nis necessary and expedient in the public interest so to do, hereby issues the Amendment \nDirections hereinafter specified.   \n3. Short Title and Commencement \n(1) These Directions shall be called the Reserve Bank of India (Rural Co-operative \nBanks \u2013 Know Your Customer) Amendment Directions, 2026.  \n(2) These Directions shall come into force with immediate effect.  \n4. These Amendment Directions shall modify the  Reserve Bank of India (Rural Co-\noperative Banks \u2013 Know Your Customer) Directions, 2025 as under:  \n(1) Paragraph 4(1)(v) shall be substituted by the following, namely:  \n\u201c\u2018Certified Copy\u2019 \u2013 Obtaining the certified copy by the bank shall mean comparing the \ncopy of the proof of possession of Aadhaar number where offline verification cannot be \ncarried out or the officially valid document produced by the customer with the original, \nand an authorised officer of the bank shall record the comparison on the copy as per the \nprovisions contained in the Act. Provided that in case of Non-Resident Indians (NRIs) and \nPersons of Indian Origin (PIOs), as defined in Foreign Exchange Management (Deposit) \nRegulations, 2016 {FEMA 5(R)}, and Foreign Portfolio Investors (FPIs), the bank may \nalternatively obtain the original certified copy, certified by any one of the following: \n(a) authorised officials of overseas branches of Scheduled Commercial Banks \nregistered in India, \n(b) branches of overseas banks with whom Indian banks have relationships, \n(c) Notary Public abroad, \n(d) Court Magistrate, \n(e) Judge, \n(f) Indian Embassy / Consulate General in the country where the non-resident \ncustomer resides.\u201d \n \n(Veena Srivastava)  \nChief General Manager \n",
@@ -842,866 +1055,6 @@
       {
         "date": "November 28, 2025",
         "context": "ment Portfolio) Directions, 2025  dated November 28, 2025, on Investment in non-SLR securities. I"
-      }
-    ]
-  },
-  {
-    "title": "Reserve Bank of India (Rural Co-operative Banks \u2013 Interest Rate on Deposits) Second Amendment Directions, 2026",
-    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/248NT8DDD6A72A6C84370B94BB0E99F102933.PDF",
-    "file_extracted_text": " \n \n \n \n \u092d\u093e\u0930\u0924\u0940\u092f \u012f\u0930\u095b\u0935\u0930\u094d \u092c\u0948\u0902\u0915   \n  RESERVE BANK OF INDIA     \nRBI/2026-27/248 \nDOR.SOG(SPE).REC.214/13.03.00/2026-27                                         August 25, 2026 \nReserve Bank of India (Rural Co-operative Banks \u2013 Interest Rate on Deposits)  \nSecond Amendment Directions, 2026 \nPlease refer to the Reserve Bank of India (Rural Co-operative Banks \u2013 Interest Rate on \nDeposits) Directions, 2025 (hereinafter referred to as \u2018Directions\u2019), dated November 28, \n2025 (Updated as on June 17, 2026), wherein temporary withdrawal of the interest rate \nceiling on fresh FCNR(B) deposits of 3-5 year tenors and restriction on interest rates on \nNRE deposits of 3 year and above tenors, including the deposits that are renewed upon \nmaturity, have been provided with effect from June 17, 2026, for the period until \nSeptember 30, 2026. On a review, it has been decided to amend the date \u2018September \n30, 2026\u2019 to the date \u2018August 31, 2026\u2019 for the aforementioned temporary relaxation. \n2. Accordingly, in exercise of the powers conferred by Section 35A read with Section 56 \nof the Banking Regulation Act,1949 and all other laws enabling the Reserve Bank India \n(RBI) in this regard, the RBI, being satisfied that it is necessary and expedient in public \ninterest so to do, hereby, issues the Amendment Directions hereinafter specified. \n3. These Amendment Directions shall be called the Reserve Bank of India (Rural Co-\noperative Banks \u2013 Interest Rate on Deposits) Second Amendment Directions, 2026. \n4. These Amendment Directions shall come into force with immediate effect.  \n5. These Amendment Directions shall modify the Directions, as under: \ni. \nIn paragraph 24(4) subscript (1), the phrase \u201cwith effect from June 17, 2026, for \nthe period until September 30, 2026\u201d shall be substituted with \u201cwith effect from \nJune 17, 2026, for the period until August 31, 2026\u201d. \nii. \nIn paragraph 29(7) subscript (2), the phrase \u201cwith effect from June 17, 2026, for \nthe period until September 30, 2026\u201d shall be substituted with \u201cwith effect from \nJune 17, 2026, for the period until August 31, 2026\u201d. \n \n(Dr. Sudarsana Sahoo) \nChief General Manager \n",
-    "extracted_links": [
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13003",
-        "context": "Reserve Bank of India (Rural Co-operative Banks \u2013 Interest Rate on Directions, 2025 (hereinafter referred to as \u2018Directions\u2019), dated November 28,"
-      },
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13003",
-        "context": "Deposits) Directions, 2025 2025 (Updated as on June"
-      }
-    ],
-    "important_dates": [
-      {
-        "date": "August 25, 2026",
-        "context": "August 25, 2026  Reserve Bank of India (Rural Co-operat"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "dated November 28,  2025 (Updated as on June 17, 2026), wherein temporary withdrawal of the i"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "ty, have been provided with effect from June 17, 2026, for the period until  September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for the period until  September 30, 2026. On a review, it has been decided to am"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "date \u2018September  30, 2026\u2019 to the date \u2018August 31, 2026\u2019 for the aforementioned temporary relax"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "cript (1), the phrase \u201cwith effect from June 17, 2026, for  the period until September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for  the period until September 30, 2026\u201d shall be substituted with \u201cwith effect"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "be substituted with \u201cwith effect from  June 17, 2026, for the period until August 31, 2026\u201d."
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "om  June 17, 2026, for the period until August 31, 2026\u201d.  ii.  In paragraph 29(7) subscript (2"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "cript (2), the phrase \u201cwith effect from June 17, 2026, for  the period until September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for  the period until September 30, 2026\u201d shall be substituted with \u201cwith effect"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "be substituted with \u201cwith effect from  June 17, 2026, for the period until August 31, 2026\u201d."
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "om  June 17, 2026, for the period until August 31, 2026\u201d.    (Dr. Sudarsana Sahoo)  Chief Gener"
-      }
-    ]
-  },
-  {
-    "title": "Reserve Bank of India (Urban Co-operative Banks \u2013 Interest Rate on Deposits) Third Amendment Directions, 2026",
-    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/247NTCB2A00D83FED47A7B3985F87DB378B9E.PDF",
-    "file_extracted_text": " \n \n \n \n \u092d\u093e\u0930\u0924\u0940\u092f \u012f\u0930\u095b\u0935\u0930\u094d \u092c\u0948\u0902\u0915   \n  RESERVE BANK OF INDIA     \nRBI/2026-27/247 \nDOR.SOG(SPE).REC.216/13.03.00/2026-27                                         August 25, 2026 \nReserve Bank of India (Urban Co-operative Banks \u2013 Interest Rate on Deposits)  \nThird Amendment Directions, 2026 \nPlease refer to the Reserve Bank of India (Urban Co-operative Banks \u2013 Interest Rate on \nDeposits) Directions, 2025 (hereinafter referred to as \u2018Directions\u2019), dated November 28, \n2025 (Updated as on June 17, 2026), wherein temporary withdrawal of the interest rate \nceiling on fresh FCNR(B) deposits of 3-5 year tenors and restriction on interest rates on \nNRE deposits of 3 year and above tenors, including the deposits that are renewed upon \nmaturity, have been provided with effect from June 17, 2026, for the period until \nSeptember 30, 2026. On a review, it has been decided to amend the date \u2018September \n30, 2026\u2019 to the date \u2018August 31, 2026\u2019 for the aforementioned temporary relaxation. \n2. Accordingly, in exercise of the powers conferred by Section 35A read with Section 56 \nof the Banking Regulation Act,1949 and all other laws enabling the Reserve Bank India \n(RBI) in this regard, the RBI, being satisfied that it is necessary and expedient in public \ninterest so to do, hereby, issues the Amendment Directions hereinafter specified. \n3. These Amendment Directions shall be called the Reserve Bank of India (Urban Co-\noperative Banks \u2013 Interest Rate on Deposits) Third Amendment Directions, 2026. \n4. These Amendment Directions shall come into force with immediate effect.  \n5. These Amendment Directions shall modify the Directions, as under: \ni. \nIn paragraph 24(4) subscript (1), the phrase \u201cwith effect from June 17, 2026, for \nthe period until September 30, 2026\u201d shall be substituted with \u201cwith effect from \nJune 17, 2026, for the period until August 31, 2026\u201d. \nii. \nIn paragraph 29(7) subscript (2), the phrase \u201cwith effect from June 17, 2026, for \nthe period until September 30, 2026\u201d shall be substituted with \u201cwith effect from \nJune 17, 2026, for the period until August 31, 2026\u201d. \n \n(Dr. Sudarsana Sahoo) \nChief General Manager \n",
-    "extracted_links": [
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13029",
-        "context": "Reserve Bank of India (Urban Co-operative Banks \u2013 Interest Rate on Directions, 2025 (hereinafter referred to as \u2018Directions\u2019), dated November 28,"
-      },
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13029",
-        "context": "Deposits) Directions, 2025 2025 (Updated as on June"
-      }
-    ],
-    "important_dates": [
-      {
-        "date": "August 25, 2026",
-        "context": "August 25, 2026  Reserve Bank of India (Urban Co-operat"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "dated November 28,  2025 (Updated as on June 17, 2026), wherein temporary withdrawal of the i"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "ty, have been provided with effect from June 17, 2026, for the period until  September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for the period until  September 30, 2026. On a review, it has been decided to am"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "date \u2018September  30, 2026\u2019 to the date \u2018August 31, 2026\u2019 for the aforementioned temporary relax"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "cript (1), the phrase \u201cwith effect from June 17, 2026, for  the period until September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for  the period until September 30, 2026\u201d shall be substituted with \u201cwith effect"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "be substituted with \u201cwith effect from  June 17, 2026, for the period until August 31, 2026\u201d."
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "om  June 17, 2026, for the period until August 31, 2026\u201d.  ii.  In paragraph 29(7) subscript (2"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "cript (2), the phrase \u201cwith effect from June 17, 2026, for  the period until September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for  the period until September 30, 2026\u201d shall be substituted with \u201cwith effect"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "be substituted with \u201cwith effect from  June 17, 2026, for the period until August 31, 2026\u201d."
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "om  June 17, 2026, for the period until August 31, 2026\u201d.    (Dr. Sudarsana Sahoo)  Chief Gener"
-      }
-    ]
-  },
-  {
-    "title": "Reserve Bank of India (Regional Rural Banks \u2013 Interest Rate on Deposits) Third Amendment Directions, 2026",
-    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/246NT3C0EEC17676B48EAA37FB6D88C6E2032.PDF",
-    "file_extracted_text": " \n \n \n \n \u092d\u093e\u0930\u0924\u0940\u092f \u012f\u0930\u095b\u0935\u0930\u094d \u092c\u0948\u0902\u0915   \n  RESERVE BANK OF INDIA     \nRBI/2026-27/246 \nDOR.SOG(SPE).REC.213/13.03.00/2026-27                                         August 25, 2026 \nReserve Bank of India (Regional Rural Banks \u2013 Interest Rate on Deposits)  \nThird Amendment Directions, 2026 \nPlease refer to the Reserve Bank of India (Regional Rural Banks \u2013 Interest Rate on \nDeposits) Directions, 2025 (hereinafter referred to as \u2018Directions\u2019), dated November 28, \n2025 (Updated as on June 17, 2026), wherein temporary withdrawal of the interest rate \nceiling on fresh FCNR(B) deposits of 3-5 year tenors and restriction on interest rates on \nNRE deposits of 3 year and above tenors, including the deposits that are renewed upon \nmaturity, have been provided with effect from June 17, 2026, for the period until \nSeptember 30, 2026. On a review, it has been decided to amend the date \u2018September \n30, 2026\u2019 to the date \u2018August 31, 2026\u2019 for the aforementioned temporary relaxation. \n2. Accordingly, in exercise of the powers conferred by Section 35A of the Banking \nRegulation Act,1949 and all other laws enabling the Reserve Bank India (RBI) in this \nregard, the RBI, being satisfied that it is necessary and expedient in public interest so \nto do, hereby, issues the Amendment Directions hereinafter specified. \n3. These Amendment Directions shall be called the Reserve Bank of India (Regional \nRural Banks \u2013 Interest Rate on Deposits) Third Amendment Directions, 2026. \n4. These Amendment Directions shall come into force with immediate effect.  \n5. These Amendment Directions shall modify the Directions, as under: \ni. \nIn paragraph 26(4) subscript (1), the phrase \u201cwith effect from June 17, 2026, for \nthe period until September 30, 2026\u201d shall be substituted with \u201cwith effect from \nJune 17, 2026, for the period until August 31, 2026\u201d. \nii. \nIn paragraph 31(7) subscript (2), the phrase \u201cwith effect from June 17, 2026, for \nthe period until September 30, 2026\u201d shall be substituted with \u201cwith effect from \nJune 17, 2026, for the period until August 31, 2026\u201d. \n \n(Dr. Sudarsana Sahoo) \nChief General Manager \n",
-    "extracted_links": [
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13054",
-        "context": "Reserve Bank of India (Regional Rural Banks \u2013 Interest Rate on Directions, 2025 (hereinafter referred to as \u2018Directions\u2019), dated November 28,"
-      },
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13054",
-        "context": "Deposits) Directions, 2025 2025 (Updated as on June"
-      }
-    ],
-    "important_dates": [
-      {
-        "date": "August 25, 2026",
-        "context": "August 25, 2026  Reserve Bank of India (Regional Rural"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "dated November 28,  2025 (Updated as on June 17, 2026), wherein temporary withdrawal of the i"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "ty, have been provided with effect from June 17, 2026, for the period until  September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for the period until  September 30, 2026. On a review, it has been decided to am"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "date \u2018September  30, 2026\u2019 to the date \u2018August 31, 2026\u2019 for the aforementioned temporary relax"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "cript (1), the phrase \u201cwith effect from June 17, 2026, for  the period until September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for  the period until September 30, 2026\u201d shall be substituted with \u201cwith effect"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "be substituted with \u201cwith effect from  June 17, 2026, for the period until August 31, 2026\u201d."
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "om  June 17, 2026, for the period until August 31, 2026\u201d.  ii.  In paragraph 31(7) subscript (2"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "cript (2), the phrase \u201cwith effect from June 17, 2026, for  the period until September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for  the period until September 30, 2026\u201d shall be substituted with \u201cwith effect"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "be substituted with \u201cwith effect from  June 17, 2026, for the period until August 31, 2026\u201d."
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "om  June 17, 2026, for the period until August 31, 2026\u201d.    (Dr. Sudarsana Sahoo)  Chief Gener"
-      }
-    ]
-  },
-  {
-    "title": "Reserve Bank of India (Local Area Banks \u2013 Interest Rate on Deposits)  Third Amendment Directions, 2026",
-    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2459761406F857D4303BBAA454C7C6A3FB4.PDF",
-    "file_extracted_text": " \n \n \n \n \u092d\u093e\u0930\u0924\u0940\u092f \u012f\u0930\u095b\u0935\u0930\u094d \u092c\u0948\u0902\u0915   \n  RESERVE BANK OF INDIA     \n \nRBI/2026-27/245 \nDOR.SOG(SPE).REC.215/13.03.00/2026-27                                         August 25, 2026 \n \nReserve Bank of India (Local Area Banks \u2013 Interest Rate on Deposits)  \nThird Amendment Directions, 2026 \nPlease refer to the Reserve Bank of India (Local Area Banks \u2013 Interest Rate on \nDeposits) Directions, 2025 (hereinafter referred to as \u2018Directions\u2019), dated November 28, \n2025 (Updated as on June 17, 2026), wherein temporary withdrawal of the interest rate \nceiling on fresh FCNR(B) deposits of 3-5 year tenors and restriction on interest rates on \nNRE deposits of 3 year and above tenors, including the deposits that are renewed upon \nmaturity, have been provided with effect from June 17, 2026, for the period until \nSeptember 30, 2026. On a review, it has been decided to amend the date \u2018September \n30, 2026\u2019 to the date \u2018August 31, 2026\u2019 for the aforementioned temporary relaxation. \n2. Accordingly, in exercise of the powers conferred by Section 35A of the Banking \nRegulation Act,1949 and all other laws enabling the Reserve Bank India (RBI) in this \nregard, the RBI, being satisfied that it is necessary and expedient in public interest so \nto do, hereby, issues the Amendment Directions hereinafter specified. \n3. These Amendment Directions shall be called the Reserve Bank of India (Local Area \nBanks \u2013 Interest Rate on Deposits) Third Amendment Directions, 2026. \n4. These Amendment Directions shall come into force with immediate effect.  \n5. These Amendment Directions shall modify the Directions, as under: \ni. \nIn paragraph 26(4) subscript (1), the phrase \u201cwith effect from June 17, 2026, for \nthe period until September 30, 2026\u201d shall be substituted with \u201cwith effect from \nJune 17, 2026, for the period until August 31, 2026\u201d. \nii. \nIn paragraph 31(7) subscript (2), the phrase \u201cwith effect from June 17, 2026, for \nthe period until September 30, 2026\u201d shall be substituted with \u201cwith effect from \nJune 17, 2026, for the period until August 31, 2026\u201d. \n \n(Dr. Sudarsana Sahoo) \nChief General Manager \n",
-    "extracted_links": [
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13079",
-        "context": "Reserve Bank of India (Local Area Banks \u2013 Interest Rate on 2025 (hereinafter referred to as \u2018Directions\u2019), dated November 28,"
-      },
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13079",
-        "context": "Deposits) Directions, 2025 2025 (Updated as on June"
-      }
-    ],
-    "important_dates": [
-      {
-        "date": "August 25, 2026",
-        "context": "August 25, 2026    Reserve Bank of India (Local Area Ba"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "dated November 28,  2025 (Updated as on June 17, 2026), wherein temporary withdrawal of the i"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "ty, have been provided with effect from June 17, 2026, for the period until  September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for the period until  September 30, 2026. On a review, it has been decided to am"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "date \u2018September  30, 2026\u2019 to the date \u2018August 31, 2026\u2019 for the aforementioned temporary relax"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "cript (1), the phrase \u201cwith effect from June 17, 2026, for  the period until September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for  the period until September 30, 2026\u201d shall be substituted with \u201cwith effect"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "be substituted with \u201cwith effect from  June 17, 2026, for the period until August 31, 2026\u201d."
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "om  June 17, 2026, for the period until August 31, 2026\u201d.  ii.  In paragraph 31(7) subscript (2"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "cript (2), the phrase \u201cwith effect from June 17, 2026, for  the period until September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for  the period until September 30, 2026\u201d shall be substituted with \u201cwith effect"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "be substituted with \u201cwith effect from  June 17, 2026, for the period until August 31, 2026\u201d."
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "om  June 17, 2026, for the period until August 31, 2026\u201d.    (Dr. Sudarsana Sahoo)  Chief Gener"
-      }
-    ]
-  },
-  {
-    "title": "Reserve Bank of India (Small Finance Banks \u2013 Interest Rate on Deposits)  Third Amendment Directions, 2026",
-    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT244CC7547DD66A14E4485EB6DD3AEE296FA.PDF",
-    "file_extracted_text": " \n \n \n \n \u092d\u093e\u0930\u0924\u0940\u092f \u012f\u0930\u095b\u0935\u0930\u094d \u092c\u0948\u0902\u0915   \n  RESERVE BANK OF INDIA     \n \nRBI/2026-27/244 \nDOR.SOG(SPE).REC.212/13.03.00/2026-27                                         August 25, 2026 \n \nReserve Bank of India (Small Finance Banks \u2013 Interest Rate on Deposits)  \nThird Amendment Directions, 2026 \nPlease refer to the Reserve Bank of India (Small Finance Banks \u2013 Interest Rate on \nDeposits) Directions, 2025 (hereinafter referred to as \u2018Directions\u2019), dated November 28, \n2025 (Updated as on June 17, 2026), wherein temporary withdrawal of the interest rate \nceiling on fresh FCNR(B) deposits of 3-5 year tenors and restriction on interest rates on \nNRE deposits of 3 year and above tenors, including the deposits that are renewed upon \nmaturity, have been provided with effect from June 17, 2026, for the period until \nSeptember 30, 2026. On a review, it has been decided to amend the date \u2018September \n30, 2026\u2019 to the date \u2018August 31, 2026\u2019 for the aforementioned temporary relaxation. \n2. Accordingly, in exercise of the powers conferred by Section 35A of the Banking \nRegulation Act,1949 and all other laws enabling the Reserve Bank India (RBI) in this \nregard, the RBI, being satisfied that it is necessary and expedient in public interest so \nto do, hereby, issues the Amendment Directions hereinafter specified. \n3. These Amendment Directions shall be called the Reserve Bank of India (Small \nFinance Banks \u2013 Interest Rate on Deposits) Third Amendment Directions, 2026. \n4. These Amendment Directions shall come into force with immediate effect.  \n5. These Amendment Directions shall modify the Directions, as under: \ni. \nIn paragraph 26(4) subscript (1), the phrase \u201cwith effect from June 17, 2026, for \nthe period until September 30, 2026\u201d shall be substituted with \u201cwith effect from \nJune 17, 2026, for the period until August 31, 2026\u201d. \nii. \nIn paragraph 31(7) subscript (2), the phrase \u201cwith effect from June 17, 2026, for \nthe period until September 30, 2026\u201d shall be substituted with \u201cwith effect from \nJune 17, 2026, for the period until August 31, 2026\u201d. \n \n(Dr. Sudarsana Sahoo) \nChief General Manager \n",
-    "extracted_links": [
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13125",
-        "context": "Reserve Bank of India (Small Finance Banks \u2013 Interest Rate on Directions, 2025 (hereinafter referred to as \u2018Directions\u2019), dated November 28,"
-      },
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13125",
-        "context": "Deposits) Directions, 2025 2025 (Updated as on June"
-      }
-    ],
-    "important_dates": [
-      {
-        "date": "August 25, 2026",
-        "context": "August 25, 2026    Reserve Bank of India (Small Finance"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "dated November 28,  2025 (Updated as on June 17, 2026), wherein temporary withdrawal of the i"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "ty, have been provided with effect from June 17, 2026, for the period until  September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for the period until  September 30, 2026. On a review, it has been decided to am"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "date \u2018September  30, 2026\u2019 to the date \u2018August 31, 2026\u2019 for the aforementioned temporary relax"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "cript (1), the phrase \u201cwith effect from June 17, 2026, for  the period until September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for  the period until September 30, 2026\u201d shall be substituted with \u201cwith effect"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "be substituted with \u201cwith effect from  June 17, 2026, for the period until August 31, 2026\u201d."
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "om  June 17, 2026, for the period until August 31, 2026\u201d.  ii.  In paragraph 31(7) subscript (2"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "cript (2), the phrase \u201cwith effect from June 17, 2026, for  the period until September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for  the period until September 30, 2026\u201d shall be substituted with \u201cwith effect"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "be substituted with \u201cwith effect from  June 17, 2026, for the period until August 31, 2026\u201d."
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "om  June 17, 2026, for the period until August 31, 2026\u201d.    (Dr. Sudarsana Sahoo)  Chief Gener"
-      }
-    ]
-  },
-  {
-    "title": "Reserve Bank of India (Commercial Banks \u2013 Interest Rate on Deposits)  Third Amendment Directions, 2026",
-    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT243E6FCB6CC3F204053BD2E8F6FA1CE7A56.PDF",
-    "file_extracted_text": " \n \n \n \n \u092d\u093e\u0930\u0924\u0940\u092f \u012f\u0930\u095b\u0935\u0930\u094d \u092c\u0948\u0902\u0915   \n  RESERVE BANK OF INDIA     \n \nRBI/2026-27/243 \nDOR.SOG(SPE).REC.211/13.03.00/2026-27                                         August 25, 2026 \n \nReserve Bank of India (Commercial Banks \u2013 Interest Rate on Deposits)  \nThird Amendment Directions, 2026 \n \nPlease refer to the Reserve Bank of India (Commercial Banks \u2013 Interest Rate on \nDeposits) Directions, 2025 (hereinafter referred to as \u2018Directions\u2019), dated November 28, \n2025 (Updated as on June 17, 2026), wherein temporary withdrawal of the interest rate \nceiling on fresh FCNR(B) deposits of 3-5 year tenors and restriction on interest rates on \nNRE deposits of 3 year and above tenors, including the deposits that are renewed upon \nmaturity, have been provided with effect from June 17, 2026, for the period until \nSeptember 30, 2026. On a review, it has been decided to amend the date \u2018September \n30, 2026\u2019 to the date \u2018August 31, 2026\u2019 for the aforementioned temporary relaxation. \n2. Accordingly, in exercise of the powers conferred by Section 35A of the Banking \nRegulation Act,1949 and all other laws enabling the Reserve Bank India (RBI) in this \nregard, the RBI, being satisfied that it is necessary and expedient in public interest so \nto do, hereby, issues the Amendment Directions hereinafter specified. \n3. These Amendment Directions shall be called the Reserve Bank of India (Commercial \nBanks \u2013 Interest Rate on Deposits) Third Amendment Directions, 2026. \n4. These Amendment Directions shall come into force with immediate effect.  \n5. These Amendment Directions shall modify the Directions, as under: \ni. \nIn paragraph 27(4) subscript (1), the phrase \u201cwith effect from June 17, 2026, for \nthe period until September 30, 2026\u201d shall be substituted with \u201cwith effect from \nJune 17, 2026, for the period until August 31, 2026\u201d. \nii. \nIn paragraph 32(7) subscript (2), the phrase \u201cwith effect from June 17, 2026, for \nthe period until September 30, 2026\u201d shall be substituted with \u201cwith effect from \nJune 17, 2026, for the period until August 31, 2026\u201d. \n \n(Dr. Sudarsana Sahoo) \nChief General Manager \n",
-    "extracted_links": [
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13157",
-        "context": "Reserve Bank of India (Commercial Banks \u2013 Interest Rate on Directions, 2025 (hereinafter referred to as \u2018Directions\u2019), dated November 28,"
-      },
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13157",
-        "context": "Deposits) Directions, 2025 2025 (Updated as on June"
-      }
-    ],
-    "important_dates": [
-      {
-        "date": "August 25, 2026",
-        "context": "August 25, 2026    Reserve Bank of India (Commercial Ba"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "dated November 28,  2025 (Updated as on June 17, 2026), wherein temporary withdrawal of the i"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "ty, have been provided with effect from June 17, 2026, for the period until  September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for the period until  September 30, 2026. On a review, it has been decided to am"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "date \u2018September  30, 2026\u2019 to the date \u2018August 31, 2026\u2019 for the aforementioned temporary relax"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "cript (1), the phrase \u201cwith effect from June 17, 2026, for  the period until September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for  the period until September 30, 2026\u201d shall be substituted with \u201cwith effect"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "be substituted with \u201cwith effect from  June 17, 2026, for the period until August 31, 2026\u201d."
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "om  June 17, 2026, for the period until August 31, 2026\u201d.  ii.  In paragraph 32(7) subscript (2"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "cript (2), the phrase \u201cwith effect from June 17, 2026, for  the period until September 30, 20"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "om June 17, 2026, for  the period until September 30, 2026\u201d shall be substituted with \u201cwith effect"
-      },
-      {
-        "date": "June 17, 2026",
-        "context": "be substituted with \u201cwith effect from  June 17, 2026, for the period until August 31, 2026\u201d."
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "om  June 17, 2026, for the period until August 31, 2026\u201d.    (Dr. Sudarsana Sahoo)  Chief Gener"
-      }
-    ]
-  },
-  {
-    "title": "Reserve Bank of India (Rural Co-operative Banks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
-    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT24235AB34A633E1462EB5A2C1CD01994663.PDF",
-    "file_extracted_text": " \n\u092d\u093e\u0930\u0924\u0940\u092f \u012f\u0930\u095b\u0935\u0930\u094d \u092c\u0948\u0902\u0915   \n  RESERVE BANK OF INDIA     \n \n_______________________________________________________________________________________________________________________________________\u036a\n\u0935\u01d3\u0928\u092f\u092e\u0928 \u036a \u0935\u092d\u093e\u0917, \u0915\u0947\u0902\u0926\u094d\u0930\u0223\u092f \u0915\u093e\u092f\u093e\u0930\u094d\u0932\u092f, 12\u0935\u0940\u0902 \u0914\u0930 13\u0935\u0940\u0902 \u092e\u0902\u093f\u095b\u0932, \u0928\u0930\u0223\u092e\u0928 \u092d\u0935\u0928, \u0928\u0930\u0223\u092e\u0928 \u092a\u0949\u0907\u0902\u091f, \u092e\u0941\u0902\u092c\u0908 400021 \nDepartment of Regulation, Central Office, 12th & 13th Floor, Nariman Bhavan, Nariman Point, Mumbai 400021 \n\u092c\u0948\u0902\u0915 \u01d1\u0939\u0902\u0926\u0223 \u092e\u0947\u0902 \u092a\u0924\u094d\u0930\u093e\u091a\u093e\u0930 \u0915\u093e \u0938\u094d\u0935\u093e\u0917\u0924 \u0915\u0930\u0924\u093e \u0939\u0948 \nCaution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, \netc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers. \n \nRBI/2026-27/242  \nDOR.RET.REC.209/12.01.001/2026-27           \n                  \n August 25, 2026 \n \nReserve Bank of India (Rural Co-operative Banks \u2013 Cash Reserve Ratio and \nStatutory Liquidity Ratio) Fourth Amendment Directions, 2026 \n \nPlease refer to the Reserve Bank of India (Rural Co-operative Banks \u2013 Cash Reserve \nRatio and Statutory Liquidity Ratio) Directions, 2025 (updated as on June 19, 2026) \nwherein exemption from CRR and SLR maintenance have been provided to fresh \nFCNR(B) deposits of minimum tenor of three years and maximum tenor of five years \nand fresh Non-Resident (External) Rupee (NRE) term deposits of tenor of three years \nor more mobilized (including deposits that are renewed upon maturity) by the banks \nbetween June 8, 2026 to September 30, 2026 and June 19, 2026 to September 30, \n2026 respectively. On review, it has been decided to amend the date \u201cSeptember 30, \n2026\u201d to the date \u201cAugust 31, 2026\u201d for the aforesaid exemptions.  \n2. Accordingly, in exercise of the powers conferred by Section 35A of the Banking \nRegulation Act, 1949 and pursuant to Section 42 of the Reserve Bank of India Act, \n1934 and Sections 18 and 24, read with section 56 (AACS), of Banking Regulation \nAct, 1949, as amended from time to time, and all other provisions / laws enabling the \nReserve Bank of India in this regard, the Reserve Bank being satisfied that it is \nnecessary and expedient in the public interest so to do, hereby, issues the Amendment \nDirections hereinafter specified. \n3. These Directions shall be called the Reserve Bank of India (Rural Co-operative \nBanks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment \nDirections, 2026. \n4. The provisions shall come into force with immediate effect. \n \n2 \n \n5. These Amendment Directions modify the Reserve Bank of India (Rural Co-operative \nBanks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Directions, 2025 as under: \ni. \nIn paragraph 21(5), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d \nshall be substituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d. \nii. \nIn paragraph 21(6), the words \u201cbetween June 19, 2026 and September 30, \n2026\u201d shall be substituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d. \n \nYours faithfully, \n \n(Manoranjan Padhy) \nChief General Manager \n \n \n \n",
-    "extracted_links": [
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13005",
-        "context": "Reserve Bank of India (Rural Co-operative Banks \u2013 Cash Reserve Statutory Liquidity Ratio) Directions, 2025 (updated as on June 19, 2026)"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13005",
-        "context": "Ratio and Statutory Liquidity Ratio) Directions, 2025 wherein exemption from CRR and SLR maintenance"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13005",
-        "context": "Reserve Bank of India (Rural Co-operative Statutory Liquidity Ratio) Directions, 2025 as under:"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13005",
-        "context": "Banks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Directions, 2025 i. In paragraph 21(5), the words \u201cbetween June 8, 2026 and September"
-      }
-    ],
-    "important_dates": [
-      {
-        "date": "August 25, 2026",
-        "context": "/2026-27                                August 25, 2026    Reserve Bank of India (Rural Co-oper"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "Ratio) Directions, 2025 (updated as on June 19, 2026)  wherein exemption from CRR and SLR ma"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "ed upon maturity) by the banks  between June 8, 2026 to September 30, 2026 and June 19, 2026"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": ") by the banks  between June 8, 2026 to September 30, 2026 and June 19, 2026 to September 30,  202"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "June 8, 2026 to September 30, 2026 and June 19, 2026 to September 30,  2026 respectively. On"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "date \u201cSeptember 30,  2026\u201d to the date \u201cAugust 31, 2026\u201d for the aforesaid exemptions.   2. Acc"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "In paragraph 21(5), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d  shall be subst"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "5), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d  shall be substituted with \u201cbetween Ju"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "26\u201d  shall be substituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d.  ii.  In paragrap"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "stituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d.  ii.  In paragraph 21(6), the words \u201c"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "In paragraph 21(6), the words \u201cbetween June 19, 2026 and September 30,  2026\u201d shall be subst"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "026\u201d shall be substituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d.    Yours faithful"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "tituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d.    Yours faithfully,    (Manoranjan P"
-      }
-    ]
-  },
-  {
-    "title": "Reserve Bank of India (Urban Co-operative Banks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
-    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT241CA5C983B376F4739A778B6944149B88B.PDF",
-    "file_extracted_text": " \n\u092d\u093e\u0930\u0924\u0940\u092f \u012f\u0930\u095b\u0935\u0930\u094d \u092c\u0948\u0902\u0915   \n  RESERVE BANK OF INDIA     \n \n_______________________________________________________________________________________________________________________________________\u036a\n\u0935\u01d3\u0928\u092f\u092e\u0928 \u036a \u0935\u092d\u093e\u0917, \u0915\u0947\u0902\u0926\u094d\u0930\u0223\u092f \u0915\u093e\u092f\u093e\u0930\u094d\u0932\u092f, 12\u0935\u0940\u0902 \u0914\u0930 13\u0935\u0940\u0902 \u092e\u0902\u093f\u095b\u0932, \u0928\u0930\u0223\u092e\u0928 \u092d\u0935\u0928, \u0928\u0930\u0223\u092e\u0928 \u092a\u0949\u0907\u0902\u091f, \u092e\u0941\u0902\u092c\u0908 400021 \nDepartment of Regulation, Central Office, 12th & 13th Floor, Nariman Bhavan, Nariman Point, Mumbai 400021 \n\u092c\u0948\u0902\u0915 \u01d1\u0939\u0902\u0926\u0223 \u092e\u0947\u0902 \u092a\u0924\u094d\u0930\u093e\u091a\u093e\u0930 \u0915\u093e \u0938\u094d\u0935\u093e\u0917\u0924 \u0915\u0930\u0924\u093e \u0939\u0948 \nCaution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, \netc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers. \n \nRBI/2026-27/241  \nDOR.RET.REC.208/12.01.001/2026-27           \n                  \n August 25, 2026 \n \nReserve Bank of India (Urban Co-operative Banks \u2013 Cash Reserve Ratio and \nStatutory Liquidity Ratio) Fourth Amendment Directions, 2026 \n \nPlease refer to the Reserve Bank of India (Urban Co-operative Banks \u2013 Cash Reserve \nRatio and Statutory Liquidity Ratio) Directions, 2025 (updated as on June 19, 2026) \nwherein exemption from CRR and SLR maintenance have been provided to fresh \nFCNR(B) deposits of minimum tenor of three years and maximum tenor of five years \nand fresh Non-Resident (External) Rupee (NRE) term deposits of tenor of three years \nor more mobilized (including deposits that are renewed upon maturity) by the banks \nbetween June 8, 2026 to September 30, 2026 and June 19, 2026 to September 30, \n2026 respectively. On review, it has been decided to amend the date \u201cSeptember 30, \n2026\u201d to the date \u201cAugust 31, 2026\u201d for the aforesaid exemptions.  \n2. Accordingly, in exercise of the powers conferred by Section 35A of the Banking \nRegulation Act, 1949 and pursuant to Section 42 of the Reserve Bank of India Act, \n1934 and Sections 18 and 24, read with section 56 (AACS), of Banking Regulation \nAct, 1949, as amended from time to time, and all other provisions / laws enabling the \nReserve Bank of India in this regard, the Reserve Bank being satisfied that it is \nnecessary and expedient in the public interest so to do, hereby, issues the Amendment \nDirections hereinafter specified. \n3. These Directions shall be called the Reserve Bank of India (Urban Co-operative \nBanks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment \nDirections, 2026. \n4. The provisions shall come into force with immediate effect. \n \n2 \n \n5. These Amendment Directions modify the Reserve Bank of India (Urban Co-\noperative Banks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Directions, 2025 \nas under: \ni. \nIn paragraph 21(5), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d \nshall be substituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d. \nii. \nIn paragraph 21(6), the words \u201cbetween June 19, 2026 and September 30, \n2026\u201d shall be substituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d. \n \nYours faithfully, \n \n(Manoranjan Padhy) \nChief General Manager \n \n \n \n",
-    "extracted_links": [
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13031",
-        "context": "Reserve Bank of India (Urban Co-operative Banks \u2013 Cash Reserve Statutory Liquidity Ratio) Directions, 2025 (updated as on June 19, 2026)"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13031",
-        "context": "Ratio and Statutory Liquidity Ratio) Directions, 2025 wherein exemption from CRR and SLR maintenance"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13031",
-        "context": "Reserve Bank of India (Urban Co- Statutory Liquidity Ratio) Directions, 2025"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13031",
-        "context": "operative Banks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Directions, 2025 as under:"
-      }
-    ],
-    "important_dates": [
-      {
-        "date": "August 25, 2026",
-        "context": "/2026-27                                August 25, 2026    Reserve Bank of India (Urban Co-oper"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "Ratio) Directions, 2025 (updated as on June 19, 2026)  wherein exemption from CRR and SLR ma"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "ed upon maturity) by the banks  between June 8, 2026 to September 30, 2026 and June 19, 2026"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": ") by the banks  between June 8, 2026 to September 30, 2026 and June 19, 2026 to September 30,  202"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "June 8, 2026 to September 30, 2026 and June 19, 2026 to September 30,  2026 respectively. On"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "date \u201cSeptember 30,  2026\u201d to the date \u201cAugust 31, 2026\u201d for the aforesaid exemptions.   2. Acc"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "In paragraph 21(5), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d  shall be subst"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "5), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d  shall be substituted with \u201cbetween Ju"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "26\u201d  shall be substituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d.  ii.  In paragrap"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "stituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d.  ii.  In paragraph 21(6), the words \u201c"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "In paragraph 21(6), the words \u201cbetween June 19, 2026 and September 30,  2026\u201d shall be subst"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "026\u201d shall be substituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d.    Yours faithful"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "tituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d.    Yours faithfully,    (Manoranjan P"
-      }
-    ]
-  },
-  {
-    "title": "Reserve Bank of India (Regional Rural Banks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
-    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT240C8CC7FD6F992477DBEA01132E3C44444.PDF",
-    "file_extracted_text": " \n\u092d\u093e\u0930\u0924\u0940\u092f \u012f\u0930\u095b\u0935\u0930\u094d \u092c\u0948\u0902\u0915   \n  RESERVE BANK OF INDIA     \n \n_______________________________________________________________________________________________________________________________________\u036a\n\u0935\u01d3\u0928\u092f\u092e\u0928 \u036a \u0935\u092d\u093e\u0917, \u0915\u0947\u0902\u0926\u094d\u0930\u0223\u092f \u0915\u093e\u092f\u093e\u0930\u094d\u0932\u092f, 12\u0935\u0940\u0902 \u0914\u0930 13\u0935\u0940\u0902 \u092e\u0902\u093f\u095b\u0932, \u0928\u0930\u0223\u092e\u0928 \u092d\u0935\u0928, \u0928\u0930\u0223\u092e\u0928 \u092a\u0949\u0907\u0902\u091f, \u092e\u0941\u0902\u092c\u0908 400021 \nDepartment of Regulation, Central Office, 12th & 13th Floor, Nariman Bhavan, Nariman Point, Mumbai 400021 \n\u092c\u0948\u0902\u0915 \u01d1\u0939\u0902\u0926\u0223 \u092e\u0947\u0902 \u092a\u0924\u094d\u0930\u093e\u091a\u093e\u0930 \u0915\u093e \u0938\u094d\u0935\u093e\u0917\u0924 \u0915\u0930\u0924\u093e \u0939\u0948 \nCaution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, \netc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers. \n \nRBI/2026-27/240  \nDOR.RET.REC.207/12.01.001/2026-27           \n                  \n August 25, 2026 \n \nReserve Bank of India (Regional Rural Banks \u2013 Cash Reserve Ratio and \nStatutory Liquidity Ratio) Fourth Amendment Directions, 2026 \n \nPlease refer to the Reserve Bank of India (Regional Rural Banks \u2013 Cash Reserve \nRatio and Statutory Liquidity Ratio) Directions, 2025 (updated as on June 19, 2026) \nwherein exemption from CRR and SLR maintenance have been provided to fresh \nFCNR(B) deposits of minimum tenor of three years and maximum tenor of five years \nand fresh Non-Resident (External) Rupee (NRE) term deposits of tenor of three years \nor more mobilized (including deposits that are renewed upon maturity) by the banks \nbetween June 8, 2026 to September 30, 2026 and June 19, 2026 to September 30, \n2026 respectively. On review, it has been decided to amend the date \u201cSeptember 30, \n2026\u201d to the date \u201cAugust 31, 2026\u201d for the aforesaid exemptions.  \n2. Accordingly, in exercise of the powers conferred by Section 35A of the Banking \nRegulation Act, 1949 and pursuant to Section 42 of the Reserve Bank of India Act, \n1934 and Sections 18 and 24 of Banking Regulation Act, 1949, as amended from time \nto time, and all other provisions / laws enabling the Reserve Bank of India in this \nregard, the Reserve Bank being satisfied that it is necessary and expedient in the \npublic interest so to do, hereby, issues the Amendment Directions hereinafter \nspecified. \n3. These Directions shall be called the Reserve Bank of India (Regional Rural Banks \n\u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, \n2026. \n4. The provisions shall come into force with immediate effect. \n \n2 \n \n5. These Amendment Directions modify the Reserve Bank of India (Regional Rural \nBanks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Directions, 2025 as under: \ni. \nIn paragraph 20(5), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d \nshall be substituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d. \nii. \nIn paragraph 20(6), the words \u201cbetween June 19, 2026 and September 30, \n2026\u201d shall be substituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d. \n \nYours faithfully, \n \n(Manoranjan Padhy) \nChief General Manager \n \n \n \n",
-    "extracted_links": [
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13056",
-        "context": "Reserve Bank of India (Regional Rural Banks \u2013 Cash Reserve Liquidity Ratio) Directions, 2025 (updated as on June 19, 2026)"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13056",
-        "context": "Ratio and Statutory Liquidity Ratio) Directions, 2025 wherein exemption from CRR and SLR maintenance"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13056",
-        "context": "Reserve Bank of India (Regional Rural Liquidity Ratio) Directions, 2025 as under:"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13056",
-        "context": "Banks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Directions, 2025 i. In paragraph 20(5), the words \u201cbetween June 8, 2026 and September"
-      }
-    ],
-    "important_dates": [
-      {
-        "date": "August 25, 2026",
-        "context": "/2026-27                                August 25, 2026    Reserve Bank of India (Regional Rura"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "Ratio) Directions, 2025 (updated as on June 19, 2026)  wherein exemption from CRR and SLR ma"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "ed upon maturity) by the banks  between June 8, 2026 to September 30, 2026 and June 19, 2026"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": ") by the banks  between June 8, 2026 to September 30, 2026 and June 19, 2026 to September 30,  202"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "June 8, 2026 to September 30, 2026 and June 19, 2026 to September 30,  2026 respectively. On"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "date \u201cSeptember 30,  2026\u201d to the date \u201cAugust 31, 2026\u201d for the aforesaid exemptions.   2. Acc"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "In paragraph 20(5), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d  shall be subst"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "5), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d  shall be substituted with \u201cbetween Ju"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "26\u201d  shall be substituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d.  ii.  In paragrap"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "stituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d.  ii.  In paragraph 20(6), the words \u201c"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "In paragraph 20(6), the words \u201cbetween June 19, 2026 and September 30,  2026\u201d shall be subst"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "026\u201d shall be substituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d.    Yours faithful"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "tituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d.    Yours faithfully,    (Manoranjan P"
-      }
-    ]
-  },
-  {
-    "title": "Reserve Bank of India (Small Finance Banks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
-    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT239B0CFAD26A5444D0D901B21618B2F6213.PDF",
-    "file_extracted_text": " \n\u092d\u093e\u0930\u0924\u0940\u092f \u012f\u0930\u095b\u0935\u0930\u094d \u092c\u0948\u0902\u0915   \n  RESERVE BANK OF INDIA     \n \n_______________________________________________________________________________________________________________________________________\u036a\n\u0935\u01d3\u0928\u092f\u092e\u0928 \u036a \u0935\u092d\u093e\u0917, \u0915\u0947\u0902\u0926\u094d\u0930\u0223\u092f \u0915\u093e\u092f\u093e\u0930\u094d\u0932\u092f, 12\u0935\u0940\u0902 \u0914\u0930 13\u0935\u0940\u0902 \u092e\u0902\u093f\u095b\u0932, \u0928\u0930\u0223\u092e\u0928 \u092d\u0935\u0928, \u0928\u0930\u0223\u092e\u0928 \u092a\u0949\u0907\u0902\u091f, \u092e\u0941\u0902\u092c\u0908 400021 \nDepartment of Regulation, Central Office, 12th & 13th Floor, Nariman Bhavan, Nariman Point, Mumbai 400021 \n\u092c\u0948\u0902\u0915 \u01d1\u0939\u0902\u0926\u0223 \u092e\u0947\u0902 \u092a\u0924\u094d\u0930\u093e\u091a\u093e\u0930 \u0915\u093e \u0938\u094d\u0935\u093e\u0917\u0924 \u0915\u0930\u0924\u093e \u0939\u0948 \nCaution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, \netc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers. \n \nRBI/2026-27/239  \nDOR.RET.REC.206/12.01.001/2026-27           \n                  \n August 25, 2026 \n \nReserve Bank of India (Small Finance Banks \u2013 Cash Reserve Ratio and \nStatutory Liquidity Ratio) Fourth Amendment Directions, 2026 \n \nPlease refer to the Reserve Bank of India (Small Finance Banks \u2013 Cash Reserve Ratio \nand Statutory Liquidity Ratio) Directions, 2025 (updated as on June 19, 2026) wherein \nexemption from CRR and SLR maintenance have been provided to fresh FCNR(B) \ndeposits of minimum tenor of three years and maximum tenor of five years and fresh \nNon-Resident (External) Rupee (NRE) term deposits of tenor of three years or more \nmobilized (including deposits that are renewed upon maturity) by the banks between \nJune 8, 2026 to September 30, 2026 and June 19, 2026 to September 30, 2026 \nrespectively. On review, it has been decided to amend the date \u201cSeptember 30, 2026\u201d \nto the date \u201cAugust 31, 2026\u201d for the aforesaid exemptions.  \n2. Accordingly, in exercise of the powers conferred by Section 35A of the Banking \nRegulation Act, 1949 and pursuant to Section 42 of the Reserve Bank of India Act, \n1934 and Sections 18 and 24 of Banking Regulation Act, 1949, as amended from time \nto time, and all other provisions / laws enabling the Reserve Bank of India in this \nregard, the Reserve Bank being satisfied that it is necessary and expedient in the \npublic interest so to do, hereby, issues the Amendment Directions hereinafter \nspecified. \n3. These Directions shall be called the Reserve Bank of India (Small Finance Banks \u2013 \nCash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, \n2026. \n4. The provisions shall come into force with immediate effect. \n \n2 \n \n5. These Amendment Directions modify the Reserve Bank of India (Small Finance \nBanks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Directions, 2025 as under: \ni. \nIn paragraph 20(6), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d \nshall be substituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d. \nii. \nIn paragraph 20(7), the words \u201cbetween June 19, 2026 and September 30, \n2026\u201d shall be substituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d. \n \nYours faithfully, \n \n(Manoranjan Padhy) \nChief General Manager \n \n \n \n",
-    "extracted_links": [
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13128",
-        "context": "Reserve Bank of India (Small Finance Banks \u2013 Cash Reserve Ratio Liquidity Ratio) Directions, 2025 (updated as on June 19, 2026) wherein"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13128",
-        "context": "and Statutory Liquidity Ratio) Directions, 2025 exemption from CRR and SLR maintenance have"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13128",
-        "context": "Reserve Bank of India (Small Finance Liquidity Ratio) Directions, 2025 as under:"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13128",
-        "context": "Banks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Directions, 2025 i. In paragraph 20(6), the words \u201cbetween June 8, 2026 and September"
-      }
-    ],
-    "important_dates": [
-      {
-        "date": "August 25, 2026",
-        "context": "/2026-27                                August 25, 2026    Reserve Bank of India (Small Finance"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "Ratio) Directions, 2025 (updated as on June 19, 2026) wherein  exemption from CRR and SLR ma"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "ed upon maturity) by the banks between  June 8, 2026 to September 30, 2026 and June 19, 2026"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": ") by the banks between  June 8, 2026 to September 30, 2026 and June 19, 2026 to September 30, 2026"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "June 8, 2026 to September 30, 2026 and June 19, 2026 to September 30, 2026  respectively. On"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "September 30, 2026 and June 19, 2026 to September 30, 2026  respectively. On review, it has been d"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "it has been decided to amend the date \u201cSeptember 30, 2026\u201d  to the date \u201cAugust 31, 2026\u201d for the"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "date \u201cSeptember 30, 2026\u201d  to the date \u201cAugust 31, 2026\u201d for the aforesaid exemptions.   2. Acc"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "In paragraph 20(6), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d  shall be subst"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "6), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d  shall be substituted with \u201cbetween Ju"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "26\u201d  shall be substituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d.  ii.  In paragrap"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "stituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d.  ii.  In paragraph 20(7), the words \u201c"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "In paragraph 20(7), the words \u201cbetween June 19, 2026 and September 30,  2026\u201d shall be subst"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "026\u201d shall be substituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d.    Yours faithful"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "tituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d.    Yours faithfully,    (Manoranjan P"
-      }
-    ]
-  },
-  {
-    "title": "Reserve Bank of India (Commercial Banks \u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
-    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT23815ADAC26488C404E8C691ABFE0080326.PDF",
-    "file_extracted_text": " \n\u092d\u093e\u0930\u0924\u0940\u092f \u012f\u0930\u095b\u0935\u0930\u094d \u092c\u0948\u0902\u0915   \n  RESERVE BANK OF INDIA     \n \n_______________________________________________________________________________________________________________________________________\u036a\n\u0935\u01d3\u0928\u092f\u092e\u0928 \u036a \u0935\u092d\u093e\u0917, \u0915\u0947\u0902\u0926\u094d\u0930\u0223\u092f \u0915\u093e\u092f\u093e\u0930\u094d\u0932\u092f, 12\u0935\u0940\u0902 \u0914\u0930 13\u0935\u0940\u0902 \u092e\u0902\u093f\u095b\u0932, \u0928\u0930\u0223\u092e\u0928 \u092d\u0935\u0928, \u0928\u0930\u0223\u092e\u0928 \u092a\u0949\u0907\u0902\u091f, \u092e\u0941\u0902\u092c\u0908 400021 \nDepartment of Regulation, Central Office, 12th & 13th Floor, Nariman Bhavan, Nariman Point, Mumbai 400021 \n\u092c\u0948\u0902\u0915 \u01d1\u0939\u0902\u0926\u0223 \u092e\u0947\u0902 \u092a\u0924\u094d\u0930\u093e\u091a\u093e\u0930 \u0915\u093e \u0938\u094d\u0935\u093e\u0917\u0924 \u0915\u0930\u0924\u093e \u0939\u0948 \nCaution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, \netc. It never keeps or offers funds to anyone. Please do not respond in any manner to such offers. \n \nRBI/2026-27/238  \nDOR.RET.REC.205/12.01.001/2026-27           \n                  \n August 25, 2026 \n \nReserve Bank of India (Commercial Banks \u2013 Cash Reserve Ratio and Statutory \nLiquidity Ratio) Fourth Amendment Directions, 2026 \n \nPlease refer to the Reserve Bank of India (Commercial Banks \u2013 Cash Reserve Ratio \nand Statutory Liquidity Ratio) Directions, 2025 (updated as on June 19, 2026) wherein \nexemption from CRR and SLR maintenance have been provided to fresh FCNR(B) \ndeposits of minimum tenor of three years and maximum tenor of five years and fresh \nNon-Resident (External) Rupee (NRE) term deposits of tenor of three years or more \nmobilized (including deposits that are renewed upon maturity) by the banks between \nJune 8, 2026 to September 30, 2026 and June 19, 2026 to September 30, 2026 \nrespectively. On review, it has been decided to amend the date \u201cSeptember 30, 2026\u201d \nto the date \u201cAugust 31, 2026\u201d for the aforesaid exemptions.  \n2. Accordingly, in exercise of the powers conferred by Section 35A of the Banking \nRegulation Act, 1949 and pursuant to Section 42 of the Reserve Bank of India Act, \n1934 and Sections 18 and 24 of Banking Regulation Act, 1949, as amended from time \nto time, and all other provisions / laws enabling the Reserve Bank of India in this \nregard, the Reserve Bank being satisfied that it is necessary and expedient in the \npublic interest so to do, hereby, issues the Amendment Directions hereinafter \nspecified. \n3. These Directions shall be called the Reserve Bank of India (Commercial Banks \u2013 \nCash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, \n2026. \n4. The provisions shall come into force with immediate effect. \n \n2 \n \n5. These Amendment Directions modify the Reserve Bank of India (Commercial Banks \n\u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Directions, 2025 as under: \ni. \nIn paragraph 20(8), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d \nshall be substituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d. \nii. \nIn paragraph 20(9), the words \u201cbetween June 19, 2026 and September 30, \n2026\u201d shall be substituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d. \n \nYours faithfully, \n \n(Manoranjan Padhy) \nChief General Manager \n \n \n \n",
-    "extracted_links": [
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13160",
-        "context": "Reserve Bank of India (Commercial Banks \u2013 Cash Reserve Ratio Liquidity Ratio) Directions, 2025 (updated as on June 19, 2026) wherein"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13160",
-        "context": "and Statutory Liquidity Ratio) Directions, 2025 exemption from CRR and SLR maintenance have"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13160",
-        "context": "Reserve Bank of India (Commercial Banks Liquidity Ratio) Directions, 2025 as under:"
-      },
-      {
-        "url": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13160",
-        "context": "\u2013 Cash Reserve Ratio and Statutory Liquidity Ratio) Directions, 2025 i. In paragraph 20(8), the words \u201cbetween June 8, 2026 and September"
-      }
-    ],
-    "important_dates": [
-      {
-        "date": "August 25, 2026",
-        "context": "/2026-27                                August 25, 2026    Reserve Bank of India (Commercial Ba"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "Ratio) Directions, 2025 (updated as on June 19, 2026) wherein  exemption from CRR and SLR ma"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "ed upon maturity) by the banks between  June 8, 2026 to September 30, 2026 and June 19, 2026"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": ") by the banks between  June 8, 2026 to September 30, 2026 and June 19, 2026 to September 30, 2026"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "June 8, 2026 to September 30, 2026 and June 19, 2026 to September 30, 2026  respectively. On"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "September 30, 2026 and June 19, 2026 to September 30, 2026  respectively. On review, it has been d"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "it has been decided to amend the date \u201cSeptember 30, 2026\u201d  to the date \u201cAugust 31, 2026\u201d for the"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "date \u201cSeptember 30, 2026\u201d  to the date \u201cAugust 31, 2026\u201d for the aforesaid exemptions.   2. Acc"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "In paragraph 20(8), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d  shall be subst"
-      },
-      {
-        "date": "September 30, 2026",
-        "context": "8), the words \u201cbetween June 8, 2026 and September 30, 2026\u201d  shall be substituted with \u201cbetween Ju"
-      },
-      {
-        "date": "June 8, 2026",
-        "context": "26\u201d  shall be substituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d.  ii.  In paragrap"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "stituted with \u201cbetween June 8, 2026 and August 31, 2026\u201d.  ii.  In paragraph 20(9), the words \u201c"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "In paragraph 20(9), the words \u201cbetween June 19, 2026 and September 30,  2026\u201d shall be subst"
-      },
-      {
-        "date": "June 19, 2026",
-        "context": "026\u201d shall be substituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d.    Yours faithful"
-      },
-      {
-        "date": "August 31, 2026",
-        "context": "tituted with \u201cbetween June 19, 2026 and August 31, 2026\u201d.    Yours faithfully,    (Manoranjan P"
-      }
-    ]
-  },
-  {
-    "title": "Reserve Bank of India (Non-Banking Financial Companies \u2013 Concentration Risk Management) Fourth Amendment Directions, 2026",
-    "file_pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT23780AF472D8C5F49009133ED2265BD663A.PDF",
-    "file_extracted_text": " \n\u092d\u093e\u0930\u0924\u0940\u092f \u012f\u0930\u095b\u0935\u0930\u094d \u092c\u0948\u0902\u0915 \n_______________________ RESERVE BANK OF INDIA ____________________ \nwww.rbi.org.in \n \u036a\n\u0935\u01d3\u0928\u092f\u092e\u0928 \u036a \u0935\u092d\u093e\u0917, \u0915\u0947\u0902\u0926\u094d\u0930\u0223\u092f \u0915\u093e\u092f\u093e\u0930\u094d\u0932\u092f, \u0915\u0947\u0902\u0926\u094d\u0930\u0223\u092f \u0915\u093e\u092f\u093e\u0930\u094d\u0932\u092f \u092d\u0935\u0928, 12\u0935\u0940\u0902/ 13\u0935\u0940\u0902 \u092e\u0902\u093f\u095b\u0932, \u0936\u0939\u0223\u0926 \u092d\u0917\u0924 \u0367 \u0938\u0902\u0939 \u092e\u093e\u0917\u0930\u094d, \u092b\u094b\u091f\u0930\u094d, \u092e\u0941\u0902\u092c\u0908 - 400001 \n\u091f\u0947\u0932\u0223\u092b\u094b\u0928/ Tel No: 22661602, 22601000 \u092b\u0948\u0915\u094d\u0938/ Fax No: 022-2270 5691   \nDepartment of Regulation, Central Office, Central Office Building, 12th/ 13th Floor, Shahid Bhagat Singh Marg, Fort, Mumbai \u2013 400001 \n \n\u1cf2\u0939\u0902\u0926\u0940 \u0906\u0938\u093e\u0928 \u0939\u1c79, \u0907\u0938\u0915\u093e \u1ba7\u092f\u094b\u0917 \u092c\u095c\u093e\u0907\u090f \nRBI/2026-27/237 \nDOR.CRE.REC.210/07-03-008/2026-27                                            August 25, 2026 \n \nReserve Bank of India (Non-Banking Financial Companies \u2013 Concentration \nRisk Management) Fourth Amendment Directions, 2026 \n \nThe Reserve Bank has issued the Reserve Bank of India (Non-Banking Financial \nCompanies \u2013 Concentration Risk Management) Directions, 2025 dated November \n28, 2025 (hereinafter referred to as \u2018Directions\u2019). On a review, it has been decided to \nrevise the large exposure framework for Infrastructure Debt Fund-Non-Banking \nFinancial Company (IDF-NBFC) in the Upper Layer.  \n \n2. Accordingly, in exercise of the powers conferred by Chapter III B of the Reserve \nBank of India Act, 1934, and all other provisions / laws enabling the Reserve Bank of \nIndia (\u2018RBI\u2019) in this regard, RBI being satisfied that it is necessary and expedient in \nthe public interest so to do, hereby, issues the Amendment Directions hereinafter \nspecified. \n \n3. These Amendment Directions shall be called the Reserve Bank of India (Non-\nBanking Financial Companies \u2013 Concentration Risk Management) Fourth \nAmendment Directions, 2026. \n4. These Amendment Directions shall come into force with immediate effect. \n5. These Amendment Directions shall modify the Directions as under: \n(1) After paragraph 39 in \u2018Chapter IV - Guidelines Applicable to NBFC \u2013 Upper Layer\u2019, \na new paragraph 39A shall be inserted as under: \n39A. The large exposure limits applicable to NBFC-IFC shall also be applicable \nto IDF-NBFC that are subject to Upper Layer regulations in terms of paragraph \n60A of the Reserve Bank of India (Non-Banking Financial Companies \u2013 \nUndertaking of Financial Services) Directions, 2025 read together with \n \n \n2 \n \nparagraph 18 (4) (i) of the Reserve Bank of India (Commercial Banks \u2013 \nUndertaking of Financial Services) Directions, 2025. \n \n \n(Dr. Sudarsana Sahoo) \nChief General Manager  \n",
-    "extracted_links": [
-      {
-        "url": "https://www.rbi.org.in/",
-        "context": "RESERVE BANK www.rbi.org.in"
-      },
-      {
-        "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12953",
-        "context": "Reserve Bank of India (Non-Banking Financial Management) Directions, 2025 dated November"
-      },
-      {
-        "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12953",
-        "context": "Companies \u2013 Concentration Risk Management) Directions, 2025 dated November 28, 2025 (hereinafter referred to as \u2018Directions\u2019). On a review, it has been decided to"
-      },
-      {
-        "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12953",
-        "context": "28, 2025 revise the"
-      },
-      {
-        "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12961",
-        "context": "Reserve Bank of India (Non-Banking Financial Companies \u2013 of Financial Services) Directions, 2025 read together with"
-      },
-      {
-        "url": "https://rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12961",
-        "context": "Undertaking of Financial Services) Directions, 2025"
-      },
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13162",
-        "context": "Reserve Bank of India (Commercial Banks \u2013 Services) Directions, 2025."
-      },
-      {
-        "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13162",
-        "context": "Undertaking of Financial Services) Directions, 2025."
-      }
-    ],
-    "important_dates": [
-      {
-        "date": "August 25, 2026",
-        "context": "August 25, 2026    Reserve Bank of India (Non-Banking F"
       }
     ]
   }
